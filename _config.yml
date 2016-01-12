@@ -1,9 +1,7 @@
-favicon: null
 name: DesignguideTV
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.5609319
+typography_spectrum: 0.6559139
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.6487455
-  brandStrength: 0.3191011773888022
-  lightness: 0.8548387
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  rhythmicContrast: 0.6594982
-typography_spectrum: 0.6559139
-layout_spectrum: 0.5609319
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#060807'
+    - '#37823a'
+    - '#a67161'
+    - '#3c241e'
+    - '#363d69'
+  brandStrength: 0.625
+  lightness: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 0.75
+purpose: []
