@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theverge.com/2016/1/11/10749812/david-bowie-movies-labyrinth-man-who-fell-to-earth'
 title: "Remembering David Bowie's singular film career"
-datePublished: '2016-01-13T01:49:05.113Z'
-dateModified: '2016-01-12T15:11:34.646Z'
+datePublished: '2016-01-13T01:50:02.561Z'
+dateModified: '2016-01-13T01:49:05.113Z'
 sourcePath: _posts/2016-01-13-remembering-david-bowies-singular-film-career.md
 published: true
 inFeed: true
