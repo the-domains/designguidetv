@@ -1,6 +1,6 @@
 name: DesignguideTV
 favicon: null
-layout_spectrum: 0.52719
+layout_spectrum: 0.41674
 typography_spectrum: 0.4572
 title: The eternal wanderlust of design.
 collections:
@@ -34,7 +34,7 @@ color:
     - '#3f2723'
     - '#946b59'
     - '#738caa'
-  brandStrength: 0.375
+  brandStrength: 0.3125
   lightness: 0.625
   saturation: 0.5625
   rhythmicContrast: 1
