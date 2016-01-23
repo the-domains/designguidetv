@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.designboom.com/design/carina-deuschl-xtend-collapsable-bathtub-imm-cologne-2016-01-22-2016/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - '2016'
   - bath
 description: "carina deuschl showcases collapsable xtend bathtub at imm cologne 2016 carina deuschl showcases collapsable xtend bathtub at imm cologne 2016 image courtesy of carina deuschl prototyped by carina deuschl, 'xtend' redefines the ordinary concept of a bathtub. the project was featured at the 2016 imm cologne ' pure talents ' contest spotlighting up-and-coming designers from around the world."
-datePublished: '2016-01-22T09:07:06.900Z'
-dateModified: '2016-01-22T09:06:57.063Z'
+datePublished: '2016-01-23T13:40:44.840Z'
+dateModified: '2016-01-23T13:40:42.324Z'
 author: []
 related: []
 app_links: []
 title: carina deuschl showcases collapsable xtend bathtub at imm cologne 2016
+sourcePath: _posts/2016-01-22-carina-deuschl-showcases-collapsable-xtend-bathtub-at-imm-co.md
+published: true
 authors: []
 publisher:
   name: 'designboom | architecture & design magazine'
   domain: www.designboom.com
   url: 'http://www.designboom.com'
   favicon: 'http://www.designboom.com/favicon.ico'
-sourcePath: _posts/2016-01-22-carina-deuschl-showcases-collapsable-xtend-bathtub-at-imm-co.md
-published: true
+url: carina-deuschl-showcases-collapsable-xtend-bathtub-at-imm-co/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
