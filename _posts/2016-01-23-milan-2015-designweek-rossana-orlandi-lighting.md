@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.designguide.tv/rossanna-orlandi-a-look-at-lighting/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - milan
   - gallery
 description: 'featuring designers and companies: Alexa Lixfeld, Ambientec, Arnout Meijer, Deform, Egli studio, Floris Wubben, German Ermics, Henry Wielgus, Hillsideout, Jan Plechac, Jolan van der Wiel, Lasvit, Marjan van Aubel, Ryu Kozeki'
-datePublished: '2016-01-23T19:23:50.278Z'
-dateModified: '2016-01-23T19:23:39.182Z'
+datePublished: '2016-01-23T19:25:25.862Z'
+dateModified: '2016-01-23T19:25:23.611Z'
 author: []
 related: []
 app_links: []
 title: 'Milan 2015, designweek, Rossana Orlandi, lighting'
+sourcePath: _posts/2016-01-23-milan-2015-designweek-rossana-orlandi-lighting.md
+published: true
 authors: []
 publisher:
   name: Designguide
   domain: www.designguide.tv
   url: 'http://www.designguide.tv'
   favicon: null
-sourcePath: _posts/2016-01-23-milan-2015-designweek-rossana-orlandi-lighting.md
-published: true
+url: milan-2015-designweek-rossana-orlandi-lighting/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
