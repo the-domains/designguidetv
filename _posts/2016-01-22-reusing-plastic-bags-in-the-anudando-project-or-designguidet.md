@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.designguide.tv/reusing-plastic-bags-in-the-anudando-project/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - michelle
   - crochet
 description: 'Discarded plastic bags are spun into fine yarns and then woven into textiles, a technique Michelle Baggerman developed during her graduation period at the Design Academy Eindhoven. By collaborating with Mexican social design organisation Anudando, textile items are made from plastic bag yarn together with craftspeople from regional parts of Mexico who specialise in weaving, crochet and basket making.'
-datePublished: '2016-01-22T16:28:56.918Z'
-dateModified: '2016-01-22T16:28:47.323Z'
+datePublished: '2016-01-23T13:40:54.178Z'
+dateModified: '2016-01-23T13:40:21.737Z'
 author: []
 related: []
 app_links: []
 title: 'Reusing plastic bags in the Anudando project | Designguide.tv'
+sourcePath: _posts/2016-01-22-reusing-plastic-bags-in-the-anudando-project-or-designguidet.md
+published: true
 authors: []
 publisher:
   name: Designguide
   domain: www.designguide.tv
   url: 'http://www.designguide.tv'
   favicon: null
-sourcePath: _posts/2016-01-22-reusing-plastic-bags-in-the-anudando-project-or-designguidet.md
-published: true
+url: reusing-plastic-bags-in-the-anudando-project-or-designguidet/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
