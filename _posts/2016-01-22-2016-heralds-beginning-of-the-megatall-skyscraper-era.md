@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.dezeen.com'
   name: Dezeen
-  favicon: 'http://static.dezeen.com/assets/images/favicon.ico?master_1150'
   domain: www.dezeen.com
+  url: 'http://www.dezeen.com'
+  favicon: 'http://static.dezeen.com/assets/images/favicon.ico?master_1150'
 keywords:
   - skyscraper
   - megatalls
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.dezeen.com/2016/01/22/2016-megatall-skyscraper-era-council-tall-buildings-urban-habitat-ctbuh/'
 title: '2016 heralds beginning of the "megatall" skyscraper era'
-datePublished: '2016-01-22T12:53:51.443Z'
-dateModified: '2016-01-22T12:53:35.530Z'
+datePublished: '2016-01-23T19:20:04.327Z'
+dateModified: '2016-01-23T16:02:00.180Z'
 sourcePath: _posts/2016-01-22-2016-heralds-beginning-of-the-megatall-skyscraper-era.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
