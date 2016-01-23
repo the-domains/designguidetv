@@ -1,33 +1,35 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.teenageengineering.com/products/po'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T15:29:42.744Z'
-dateModified: '2016-01-22T15:29:26.037Z'
+datePublished: '2016-01-23T13:41:00.129Z'
+dateModified: '2016-01-23T13:40:06.821Z'
 author: []
 related: []
 app_links: []
 title: pocket operators
+sourcePath: _posts/2016-01-22-pocket-operators.md
+published: true
 authors: []
 publisher:
   name: Teenageengineering
   domain: www.teenageengineering.com
   url: 'https://www.teenageengineering.com'
   favicon: null
-sourcePath: _posts/2016-01-22-pocket-operators.md
-published: true
+url: pocket-operators/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 <article style=""><h1>new pocket operators by Teenage Engineering</h1><p>new pocket operators by Teenage Engineering</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fae63ada1577abf307a73ae1141c905891e3d36b.png" /></article>
 
-all pocket operator models perfectly complement each other. From drum machine, bass and lead synthesisers to noise percussion, the six unique units allow you to start a pocket band. Use them separately or connect them together. pocket operators are designed on a single multiple-layer circuit board using high quality components. they all share a compact and durable form factor.
+Being a very happy owner of an OP1 ensures that this little company from Sweden always has my attention. Their pocket operator modules were a great introduction for novices and musicians alike into the world of composing on the go. And as always their sense of style instantly draws design aficionados to the almost geeky/high grade designed products. What attracted me is the seemingly simple operation in creating little tunes and a lot of options to play around once you have a melody or beat. At an entry price of 67 Euros each these little musical instruments are a no brainer.
+
+> "all pocket operator models perfectly complement each other. From drum machine, bass and lead synthesisers to noise percussion, the six unique units allow you to start a pocket band. Use them separately or connect them together. pocket operators are designed on a single multiple-layer circuit board using high quality components. they all share a compact and durable form factor."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YkXGE7gwZxc?list=PLSM1HuwZomMjRjHtgi4tnt_M40lRFsvTK" frameborder="0" allowfullscreen="" style=""></iframe>
 
