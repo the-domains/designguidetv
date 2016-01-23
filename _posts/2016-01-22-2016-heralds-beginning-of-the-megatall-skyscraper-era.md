@@ -25,7 +25,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.dezeen.com/2016/01/22/2016-megatall-skyscraper-era-council-tall-buildings-urban-habitat-ctbuh/'
 title: '2016 heralds beginning of the "megatall" skyscraper era'
-datePublished: '2016-01-23T19:20:04.328Z'
+datePublished: '2016-01-23T19:20:04.336Z'
 dateModified: '2016-01-23T16:02:00.180Z'
 sourcePath: _posts/2016-01-22-2016-heralds-beginning-of-the-megatall-skyscraper-era.md
 published: true
