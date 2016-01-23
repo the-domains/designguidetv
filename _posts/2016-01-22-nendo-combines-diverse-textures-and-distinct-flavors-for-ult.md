@@ -16,8 +16,8 @@ keywords:
   - tubes
   - distinctive
 description: "nendo combines diverse textures and distinct flavors for ultimate chocolate dessert experience nendo combines diverse textures and distinct flavors for ultimate chocolate dessert experience photos by akihiro yoshida released in 2015, ' chocolatexture' was based on the theme of chocolates with the same raw materials but with diverse textures and different tastes created from those distinctive textures."
-datePublished: '2016-01-23T15:16:09.294Z'
-dateModified: '2016-01-23T15:16:06.823Z'
+datePublished: '2016-01-23T15:20:19.053Z'
+dateModified: '2016-01-23T15:20:16.970Z'
 author: []
 related: []
 app_links: []
@@ -35,10 +35,10 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>nendo combines diverse textures and distinct flavors for ultimate chocolate dessert experience</h1><p>nendo combines diverse textures and distinct flavors for ultimate chocolate dessert experience nendo combines diverse textures and distinct flavors for ultimate chocolate dessert experience photos by akihiro yoshida released in 2015&amp;comma; ' chocolatexture' was based on the theme of chocolates with the same raw materials but with diverse textures and different tastes created from those distinctive textures&amp;period;</p><img src="http://www.designboom.com/wp-content/uploads/2016/01/nendo-new-chocolates-by-n-designboom-004.jpg" /></article>
+<article style=""><h1>nendo combines diverse textures and distinct flavors for ultimate chocolate dessert experience</h1><p>nendo combines diverse textures and distinct flavors for ultimate chocolate dessert experience nendo combines diverse textures and distinct flavors for ultimate chocolate dessert experience photos by akihiro yoshida released in 2015, ' chocolatexture' was based on the theme of chocolates with the same raw materials but with diverse textures and different tastes created from those distinctive textures.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfc8c4680e3949a53bdb887d06d0988781407290.jpg" /></article>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a29c8b-b21e-4e4c-aa96-d6ec46d36791.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/464b9867-71e9-4a4b-a99a-5cb12faaec1d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c9bd548-0b6b-48df-b06d-57d4bf966a25.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dabc94e-4e75-4c1d-a641-8d72ead1640e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b65aacd-81fd-4d00-a44b-62da7272094d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/88dabcc06d7e0afb146899d2bdc324ca8dacdee4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/58c92f5aff4e2ffce3fb8904b2ae1eb6c5b9210f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0af27c4477b51aa54c03e9bc9e8aa24d061a25e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/62d9ff3d002ed2471b55678217cbe15421ea12e8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/37a8347068878e4784b63690be68f027bf9d7366.jpg)
