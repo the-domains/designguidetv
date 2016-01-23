@@ -17,7 +17,7 @@ keywords:
   - amp
   - cologne
 description: "interview with jasper morrison, A&W designer of the year 2016 at imm cologne interview with jasper morrison, A&W designer of the year 2016 at imm cologne portrait © designboom the A&W designer of the year award has become recognized as an important title given by the editors of the A&W architektur & wohnen - germany's style-setting premium magazine for architecture, design, interior and gardening - to individuals who have played an important role in shaping the contemporary world of design."
-datePublished: '2016-01-23T15:19:36.254Z'
+datePublished: '2016-01-23T15:19:36.316Z'
 dateModified: '2016-01-23T15:19:33.724Z'
 author: []
 related: []
