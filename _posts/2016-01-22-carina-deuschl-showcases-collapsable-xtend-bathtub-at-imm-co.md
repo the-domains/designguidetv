@@ -16,7 +16,7 @@ keywords:
   - '2016'
   - bath
 description: "carina deuschl showcases collapsable xtend bathtub at imm cologne 2016 carina deuschl showcases collapsable xtend bathtub at imm cologne 2016 image courtesy of carina deuschl prototyped by carina deuschl, 'xtend' redefines the ordinary concept of a bathtub. the project was featured at the 2016 imm cologne ' pure talents ' contest spotlighting up-and-coming designers from around the world."
-datePublished: '2016-01-23T13:40:44.882Z'
+datePublished: '2016-01-23T13:40:44.927Z'
 dateModified: '2016-01-23T13:40:42.324Z'
 author: []
 related: []
