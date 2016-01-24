@@ -1,6 +1,6 @@
 name: DesignguideTV
 favicon: null
-layout_spectrum: 0.66193
+layout_spectrum: 0.86942
 typography_spectrum: 0.51837
 title: Designguide TV
 collections:
@@ -35,7 +35,7 @@ color:
     - '#d2def4'
     - '#60833a'
   brandStrength: 0.5625
-  lightness: 0.625
+  lightness: 0.5625
   saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
