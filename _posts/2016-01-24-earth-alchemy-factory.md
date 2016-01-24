@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.designguide.tv/earth-alchemy-factory/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - learn
   - made
 description: "Atelier NL's Earth Alchemy Factory invites you to explore the world of natural materials by learning and making as a community. Through their rich visual stories, you will learn about glass made from sand, paint made from soil, and ceramics made from clay."
-datePublished: '2016-01-24T02:33:10.105Z'
-dateModified: '2016-01-24T02:33:06.008Z'
+datePublished: '2016-01-24T02:38:53.916Z'
+dateModified: '2016-01-24T02:38:10.522Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.designguide.tv
   url: 'http://www.designguide.tv'
   favicon: null
+url: earth-alchemy-factory/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
