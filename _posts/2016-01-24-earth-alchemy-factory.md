@@ -1,0 +1,42 @@
+---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.designguide.tv/earth-alchemy-factory/'
+inLanguage: en
+starred: false
+keywords:
+  - tile
+  - alchemy
+  - atelier
+  - factory
+  - andriessen
+  - invited
+  - ceramics
+  - earth
+  - learn
+  - made
+description: "Atelier NL's Earth Alchemy Factory invites you to explore the world of natural materials by learning and making as a community. Through their rich visual stories, you will learn about glass made from sand, paint made from soil, and ceramics made from clay."
+datePublished: '2016-01-24T02:31:58.618Z'
+dateModified: '2016-01-24T02:31:46.718Z'
+author: []
+related: []
+app_links: []
+title: Earth Alchemy Factory
+authors: []
+publisher:
+  name: Designguide
+  domain: www.designguide.tv
+  url: 'http://www.designguide.tv'
+  favicon: null
+sourcePath: _posts/2016-01-24-earth-alchemy-factory.md
+published: true
+_context: 'http://schema.org'
+_type: MediaObject
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49b9c4bd-83bf-415d-842d-1d3a0a0e97ba.jpg)
+
+# Earth Alchemy Factory
+
+<article style=""><p>Atelier NL's Earth Alchemy Factory invites you to explore the world of natural materials by learning and making as a community. Through their rich visual stories, you will learn about glass made from sand, paint made from soil, and ceramics made from clay.</p></article>
