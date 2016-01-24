@@ -17,7 +17,7 @@ keywords:
   - mingle
   - wood
 description: 'wood and fabric mingle in minimal floating light by spitsberg all images courtesy of spitsberg amsterdam-based studio spitsberg - led by dutch designers jeroen van leur and thijmen van der steen - has a knack for making subtle, beautifully crafted home decor and furniture elements.'
-datePublished: '2016-01-24T14:26:10.981Z'
+datePublished: '2016-01-24T14:26:10.980Z'
 dateModified: '2016-01-24T14:26:08.837Z'
 author: []
 related: []
