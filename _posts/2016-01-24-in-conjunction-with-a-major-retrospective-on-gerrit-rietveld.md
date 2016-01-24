@@ -6,12 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T12:14:12.802Z'
-dateModified: '2016-01-24T12:14:04.275Z'
+datePublished: '2016-01-24T12:18:09.053Z'
+dateModified: '2016-01-24T12:18:06.028Z'
 author: []
 related: []
 app_links: []
-title: 'In conjunction with a major retrospective on Gerrit Rietveld at theVitra Design Museum, the curator, Amelie Znidaric, invited fivedesigners working in the Netherlands to join a partner from the regionin developing a design proposal.'
+title: "In conjunction with a major retrospective on Gerrit Rietveld at the\_Vitra Design Museum, the curator, Amelie Znidaric, invited five\_designers working in the Netherlands to join a partner from the region\_in developing a design proposal."
 sourcePath: _posts/2016-01-24-in-conjunction-with-a-major-retrospective-on-gerrit-rietveld.md
 published: true
 authors: []
@@ -25,12 +25,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ab56f45-c591-44b7-a4d3-7633663e9e33.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e64493150bc38e2f0ef7cd9cdb2d9635e8a309f0.jpg)
 
-# In conjunction with a major retrospective on Gerrit Rietveld at the  
-Vitra Design Museum, the curator, Amelie Znidaric, invited five  
-designers working in the Netherlands to join a partner from the region  
-in developing a design proposal.
+# In conjunction with a major retrospective on Gerrit Rietveld at the Vitra Design Museum, the curator, Amelie Znidaric, invited five designers working in the Netherlands to join a partner from the region in developing a design proposal.
 
 For this project, Studio Formafantasma was paired with Ms. Doris Wicki, one of the last people dedicated to the tradition of producing charcoal by the slow burning (5-7 days) of wood. The activity, deeply rooted in Swiss tradition, was economically important when charcoal was produced as a metallurgical fuel, but was banned in the 20th century due to deforestation and CO2 emissions.
 
