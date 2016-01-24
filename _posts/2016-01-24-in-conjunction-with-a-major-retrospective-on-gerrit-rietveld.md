@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T12:18:09.201Z'
-dateModified: '2016-01-24T12:18:06.028Z'
+datePublished: '2016-01-24T14:30:05.472Z'
+dateModified: '2016-01-24T14:30:04.811Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,11 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+[
+
+<iframe src="https://player.vimeo.com/video/44322162?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" style=""></iframe>
+
+][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e64493150bc38e2f0ef7cd9cdb2d9635e8a309f0.jpg)
 
 # In conjunction with a major retrospective on Gerrit Rietveld at the Vitra Design Museum, the curator, Amelie Znidaric, invited five designers working in the Netherlands to join a partner from the region in developing a design proposal.
@@ -38,3 +43,7 @@ Over the course of a few days spent with Ms. Wicki and photographer Luisa Zanzan
 Alongside the design pieces, black charcoal bread (baked following a traditional recipe to aid digestion) and purified water were served during the days of the event. Participants were invited to 'raise their glasses' to this tradition and experience what this meant in the past: twelve hand-made charcoal drawings made by designer Francesco Zorzi portraying trees burning, polluted cities, fumes and black rain, were on display at the exhibition to highlight the misuse of charcoal through the ages.
 
 <article style=""><h1>Confrontations with Formafantasma and Doris Wicki - Designguide.tv</h1></article>
+
+
+
+[0]: https://www.youtube.com/watch?v=R_118tFJZB0&index=2&list=PLSM1HuwZomMjRjHtgi4tnt_M40lRFsvTK
