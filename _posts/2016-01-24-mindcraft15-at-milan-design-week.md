@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-24T23:05:05.980Z'
-dateModified: '2016-01-24T23:05:03.594Z'
+datePublished: '2016-01-24T23:08:42.562Z'
+dateModified: '2016-01-24T23:08:39.330Z'
 title: Mindcraft15 at Milan design week
 author: []
 sourcePath: _posts/2016-01-24-mindcraft15-at-milan-design-week.md
@@ -23,14 +23,14 @@ _type: Article
 
 ---
 # Mindcraft15 at Milan design week
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2a8f8d2f3dad064161892d661a26a68e6cfe158.jpg)
+
+One of the most impressive installations of this years Milan design week was at Chiostro Minore di San Simpliciano in the heart of the city. The exhibition Minecraft15 presented some of the best contemporary artists and designers in an amazing setting created by Danish/Italian design studio GamFratesi who was also in charge of the curating. The floors of the cloister were covered with a reflective surface creating an 'in between' space which was this years' theme.
 [
 
 <iframe src="https://player.vimeo.com/video/125475877?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" style=""></iframe>
 
 ][0]
-
-One of the most impressive installations of this years Milan design week was at Chiostro Minore di San Simpliciano in the heart of the city. The exhibition Minecraft15 presented some of the best contemporary artists and designers in an amazing setting created by Danish/Italian design studio GamFratesi who was also in charge of the curating. The floors of the cloister were covered with a reflective surface creating an 'in between' space which was this years' theme.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2a8f8d2f3dad064161892d661a26a68e6cfe158.jpg)
 
 > We chose the theme "In Between" because it reflects the fact that Danish craftspeople and designers work in a field of tension in between mind and craft. This exhibition covers the full range of that span, including fully developed ideas, conceptual qualities and sublime artistic and technical accomplishments, coupled with a unique understanding of the materials
 
