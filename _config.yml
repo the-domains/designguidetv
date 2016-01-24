@@ -2,7 +2,7 @@ name: DesignguideTV
 favicon: null
 layout_spectrum: 0.90218
 typography_spectrum: 0.51837
-title: The eternal wanderlust of design.
+title: Designguide TV
 collections:
   - index:
       path: /
