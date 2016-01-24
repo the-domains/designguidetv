@@ -1,26 +1,26 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.designguide.tv/confrontations-with-formafantasma-and-doris-wicki/'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T11:30:35.751Z'
-dateModified: '2016-01-24T11:30:22.840Z'
+datePublished: '2016-01-24T12:14:12.522Z'
+dateModified: '2016-01-24T12:14:04.275Z'
 author: []
 related: []
 app_links: []
 title: 'In conjunction with a major retrospective on Gerrit Rietveld at theVitra Design Museum, the curator, Amelie Znidaric, invited fivedesigners working in the Netherlands to join a partner from the regionin developing a design proposal.'
+sourcePath: _posts/2016-01-24-in-conjunction-with-a-major-retrospective-on-gerrit-rietveld.md
+published: true
 authors: []
 publisher:
   name: Designguide
   domain: www.designguide.tv
   url: 'http://www.designguide.tv'
   favicon: null
-sourcePath: _posts/2016-01-24-in-conjunction-with-a-major-retrospective-on-gerrit-rietveld.md
-published: true
+url: in-conjunction-with-a-major-retrospective-on-gerrit-rietveld/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
