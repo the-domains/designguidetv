@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T23:08:42.743Z'
-dateModified: '2016-01-24T23:08:39.330Z'
+datePublished: '2016-01-25T09:24:15.562Z'
+dateModified: '2016-01-25T09:24:09.627Z'
 title: Mindcraft15 at Milan design week
 author: []
 sourcePath: _posts/2016-01-24-mindcraft15-at-milan-design-week.md
