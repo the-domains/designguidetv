@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T09:37:39.617Z'
+datePublished: '2016-01-25T09:37:39.712Z'
 dateModified: '2016-01-25T09:37:36.688Z'
 title: Mindcraft15 at Milan design week
 author: []
