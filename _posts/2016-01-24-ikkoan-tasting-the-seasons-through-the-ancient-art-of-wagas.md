@@ -17,20 +17,20 @@ keywords:
   - miniature
   - '199'
 description: "Small enough to fit within the palm of a hand, wagashi are tea cakes that evolved as an art in the ancient Japanese capital of Kyoto. Featuring seasonal concepts, they're traditionally intended to be consumed just before drinking ceremonial tea so that the sweet yet delicate flavours of the wagashi lingering in one's mouth transform the tea's bitterness into a rich, full flavour."
-datePublished: '2016-01-24T02:49:41.719Z'
-dateModified: '2016-01-24T02:49:32.595Z'
+datePublished: '2016-01-28T12:23:21.437Z'
+dateModified: '2016-01-28T12:22:15.437Z'
 author: []
 related: []
 app_links: []
 title: 'IKKOAN: Tasting the Seasons Through the Ancient Art of Wagashi | Yatzer'
+sourcePath: _posts/2016-01-24-ikkoan-tasting-the-seasons-through-the-ancient-art-of-wagas.md
+published: true
 authors: []
 publisher:
   name: Yatzer
   domain: www.yatzer.com
   url: 'https://www.yatzer.com'
   favicon: 'https://www.yatzer.com/sites/all/themes/yatzer/images/favicon.ico'
-sourcePath: _posts/2016-01-24-ikkoan-tasting-the-seasons-through-the-ancient-art-of-wagas.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
