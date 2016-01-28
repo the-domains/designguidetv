@@ -16,8 +16,8 @@ keywords:
   - designboom
   - digital
 description: "filip hodas' otherworldly landscapes suggest surreal interventions by alien forces filip hodas' otherworldly landscapes suggest surreal interventions by alien forces all images courtesy of filip hodas the otherworldly landscapes digitally crafted by filip hodas transport the viewer into a hypnagogic, hyperrealistic space that defies the physical laws that govern the world around us."
-datePublished: '2016-01-28T11:03:05.571Z'
-dateModified: '2016-01-28T11:03:02.710Z'
+datePublished: '2016-01-28T13:04:55.325Z'
+dateModified: '2016-01-28T13:04:53.225Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>filip hodas' otherworldly landscapes suggest surreal interventions by alien forces</h1><p>filip hodas' otherworldly landscapes </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88fb9d0fee10000c5cecfb7c8ec01afd34019377.jpg" /></article>
+<article style=""><h1>filip hodas' otherworldly landscapes suggest surreal interventions by alien forces</h1><p>filip hodas' other worldly landscapes </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/935d6d9dc1224b9286d1c8870dae0dad7222f649.jpg" /></article>
 
 the otherworldly landscapes digitally crafted by [filip hodas][0] transport the viewer into a hypnagogic, hyperrealistic space that defies the physical laws that govern the world around us. since the beginning of 2015, the prague-based graphic designer has been realizing a daily render using programs like world machine, cinema 4D and octane. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9993952e958d8cb85372d0dd726ce15905528eba.jpg)
 
