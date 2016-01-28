@@ -16,7 +16,7 @@ keywords:
   - designboom
   - digital
 description: "filip hodas' otherworldly landscapes suggest surreal interventions by alien forces filip hodas' otherworldly landscapes suggest surreal interventions by alien forces all images courtesy of filip hodas the otherworldly landscapes digitally crafted by filip hodas transport the viewer into a hypnagogic, hyperrealistic space that defies the physical laws that govern the world around us."
-datePublished: '2016-01-28T10:55:22.634Z'
+datePublished: '2016-01-28T10:55:22.697Z'
 dateModified: '2016-01-28T10:55:19.881Z'
 author: []
 related: []
