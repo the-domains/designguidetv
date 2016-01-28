@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - yarn
   - textile
@@ -16,8 +16,8 @@ keywords:
   - michelle
   - crochet
 description: 'Discarded plastic bags are spun into fine yarns and then woven into textiles, a technique Michelle Baggerman developed during her graduation period at the Design Academy Eindhoven. By collaborating with Mexican social design organisation Anudando, textile items are made from plastic bag yarn together with craftspeople from regional parts of Mexico who specialise in weaving, crochet and basket making.'
-datePublished: '2016-01-28T12:22:44.645Z'
-dateModified: '2016-01-28T12:22:23.881Z'
+datePublished: '2016-01-28T12:29:27.247Z'
+dateModified: '2016-01-28T12:29:21.230Z'
 author: []
 related: []
 app_links: []
