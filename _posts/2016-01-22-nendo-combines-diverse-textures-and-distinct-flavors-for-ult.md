@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - chocolate
   - flavors
@@ -16,8 +16,8 @@ keywords:
   - tubes
   - distinctive
 description: "nendo combines diverse textures and distinct flavors for ultimate chocolate dessert experience nendo combines diverse textures and distinct flavors for ultimate chocolate dessert experience photos by akihiro yoshida released in 2015, ' chocolatexture' was based on the theme of chocolates with the same raw materials but with diverse textures and different tastes created from those distinctive textures."
-datePublished: '2016-01-23T15:20:19.194Z'
-dateModified: '2016-01-23T15:20:16.970Z'
+datePublished: '2016-01-28T12:22:59.561Z'
+dateModified: '2016-01-28T12:22:30.061Z'
 author: []
 related: []
 app_links: []
