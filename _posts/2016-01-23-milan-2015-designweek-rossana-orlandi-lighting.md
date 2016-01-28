@@ -16,8 +16,8 @@ keywords:
   - milan
   - gallery
 description: 'featuring designers and companies: Alexa Lixfeld, Ambientec, Arnout Meijer, Deform, Egli studio, Floris Wubben, German Ermics, Henry Wielgus, Hillsideout, Jan Plechac, Jolan van der Wiel, Lasvit, Marjan van Aubel, Ryu Kozeki'
-datePublished: '2016-01-23T19:25:25.863Z'
-dateModified: '2016-01-23T19:25:23.611Z'
+datePublished: '2016-01-28T12:23:07.864Z'
+dateModified: '2016-01-24T01:56:36.711Z'
 author: []
 related: []
 app_links: []
