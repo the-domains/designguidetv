@@ -17,20 +17,20 @@ keywords:
   - sports
   - inflight
 description: "With a portfolio of clients that includes _New Scientist, The Guardian, Bloomberg Businessweek, Delta Airlines_ and _EasyJet_, Belgrade-based illustrator Bratislav Milenkovic had a busy 2015. Bratislav's recent works see him applying his signature use of abstract shapes and ornate compositions to themes spanning from sport and travel to technology and packaging."
-datePublished: '2016-01-30T12:36:20.690Z'
-dateModified: '2016-01-30T12:36:11.763Z'
+datePublished: '2016-01-30T12:50:09.787Z'
+dateModified: '2016-01-30T12:50:07.328Z'
 author: []
 related: []
 app_links: []
 title: 'Illustrator Bratislav Milenkovic explores sport, travel and industry in recent works'
+sourcePath: _posts/2016-01-30-illustrator-bratislav-milenkovic-explores-sport-travel-and.md
+published: true
 authors: []
 publisher:
   name: "It's Nice That"
   domain: www.itsnicethat.com
   url: 'http://www.itsnicethat.com'
   favicon: 'http://www.itsnicethat.com/favicon.ico'
-sourcePath: _posts/2016-01-30-illustrator-bratislav-milenkovic-explores-sport-travel-and.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
