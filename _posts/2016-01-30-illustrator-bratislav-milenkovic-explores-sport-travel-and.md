@@ -17,7 +17,7 @@ keywords:
   - sports
   - inflight
 description: ''
-datePublished: '2016-01-30T12:05:32.455Z'
+datePublished: '2016-01-30T12:05:32.611Z'
 dateModified: '2016-01-30T12:05:28.487Z'
 author: []
 related: []
