@@ -16,12 +16,12 @@ keywords:
   - sports
   - inflight
 description: ''
-datePublished: '2016-01-30T12:21:31.541Z'
-dateModified: '2016-01-30T12:21:28.480Z'
+datePublished: '2016-01-30T12:24:47.830Z'
+dateModified: '2016-01-30T12:24:45.125Z'
 author: []
 related: []
 app_links: []
-title: "With a portfolio of clients that includes _New Scientist, The Guardian, Bloomberg Businessweek, Delta Airlines_ and _EasyJet_, Belgrade-based illustrator Bratislav Milenkovic had a busy 2015. Bratislav's recent works see him applying his signature use of abstract shapes and ornate compositions to themes spanning from sport and travel to technology and packaging."
+title: "Bratislav\_Milenkovic's\_recent works see him applying his signature use of abstract shapes and ornate compositions to themes spanning from sport and travel to technology and packaging."
 sourcePath: _posts/2016-01-30-illustrator-bratislav-milenkovic-explores-sport-travel-and.md
 published: true
 authors: []
@@ -37,9 +37,9 @@ _type: MediaObject
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92524a71cfd5c9b54a7047be69dfa1afbfad5146.gif)
 
-<article style=""><h1>Illustrator Bratislav Milenkovic explores sport, travel and industry in recent works</h1><p>Bratislav Milenkovic</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d2cc7c343b5c20be628ebd7ccd38f5f946c07b7.jpg" /></article>
+# Bratislav Milenkovic's recent works see him applying his signature use of abstract shapes and ornate compositions to themes spanning from sport and travel to technology and packaging.
 
-# With a portfolio of clients that includes \_New Scientist, The Guardian, Bloomberg Businessweek, Delta Airlines\_ and \_EasyJet\_, Belgrade-based illustrator Bratislav Milenkovic had a busy 2015\. Bratislav's recent works see him applying his signature use of abstract shapes and ornate compositions to themes spanning from sport and travel to technology and packaging.
+<article style=""><h1>Illustrator Bratislav Milenkovic explores sport, travel and industry in recent works</h1><p>Bratislav Milenkovic</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d2cc7c343b5c20be628ebd7ccd38f5f946c07b7.jpg" /></article>
 
 Bratislav's work for United Airlines includes cover illustrations for Dossier, part of the airline's inflight magazine. Exploring localised symbolism and iconography, the designer's vibrant illustrations reflect different states in the US.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e28c31debcf7b4c97428ef02033703bd7935ee3f.jpg)
