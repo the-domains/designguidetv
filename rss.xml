@@ -4,11 +4,18 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>https://thegrid.ai/designguidetv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 12:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 03:31:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designguidetv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Border Crosser by Chico MacMurtrie/Amorphic Robot Works]]></title>
+            <description><![CDATA[<article><h1>Border Crosser by Chico MacMurtrie/Amorphic Robot Works</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec0d7d00be15566f51e4039e65834bba0306fa3e.jpg"></article>]]></description>
+            <link>http://zero1.org/events/exhibition/border-crosser-chico-macmurtrieamorphic-robot-works</link>
+            <guid isPermaLink="false">902bf7fc-b6f2-4e48-b762-a1cbe60b9eae</guid>
+            <pubDate>Sun, 31 Jan 2016 03:30:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Illustrator Bratislav Milenkovic explores sport, travel and industry in recent works]]></title>
-            <description><![CDATA[<article><h1>Illustrator Bratislav Milenkovic explores sport, travel and industry in recent works</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e7b36dee9722837abe6ec03a59dd11d4315f9b3.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Illustrator Bratislav Milenkovic explores sport, travel and industry in recent works</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47638b00dbc66c94edc74a548fdadafcdaff46ea.gif"></article>]]></description>
             <link>https://thegrid.ai/designguidetv/illustrator-bratislav-milenkovic-explores-sport-travel-and/index.html</link>
             <guid isPermaLink="false">e5436f47-c0fe-4581-bb25-faa4d978166e</guid>
             <pubDate>Sat, 30 Jan 2016 12:54:21 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/designguidetv/milan-2015-designweek-rossana-orlandi-lighting/index.html</link>
             <guid isPermaLink="false">d63da484-4ad6-4ff4-80f9-8cd4258fb2a0</guid>
             <pubDate>Thu, 28 Jan 2016 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cascade]]></title>
-            <description><![CDATA[<article><h1>Cascade</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/028b99baab900660ae8127c0fd1fda3ed4e3af63.jpg"></article>]]></description>
-            <link>https://thegrid.ai/designguidetv/cascade/index.html</link>
-            <guid isPermaLink="false">94817472-3629-4588-b18d-9f32b3a25904</guid>
-            <pubDate>Fri, 29 Jan 2016 14:13:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
