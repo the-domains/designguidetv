@@ -17,20 +17,20 @@ keywords:
   - sculpture
   - february
 description: 'ZERO1 is thrilled to commission artist Chico MacMurtrie/Amorphic Robot Works(ARW) during the week leading up to SB50. Rising 40 feet from the ground and arching across an imaginary border before forming a bridge and touching down on the "other side," Border Crosser is the first of a series of large-scale inflatable robotic sculptures that poetically explore the notion of borders by artist Chico MacMurtrie/ARW.'
-datePublished: '2016-01-30T16:46:43.165Z'
-dateModified: '2016-01-30T16:46:27.219Z'
+datePublished: '2016-01-31T03:30:39.211Z'
+dateModified: '2016-01-31T03:30:37.399Z'
 author: []
 related: []
 app_links: []
 title: Border Crosser by Chico MacMurtrie/Amorphic Robot Works
+sourcePath: _posts/2016-01-30-border-crosser-by-chico-macmurtrieamorphic-robot-works.md
+published: true
 authors: []
 publisher:
   name: Zero1
   domain: zero1.org
   url: 'http://zero1.org'
   favicon: 'http://zero1.org/sites/default/files/favicon_4.ico'
-sourcePath: _posts/2016-01-30-border-crosser-by-chico-macmurtrieamorphic-robot-works.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
