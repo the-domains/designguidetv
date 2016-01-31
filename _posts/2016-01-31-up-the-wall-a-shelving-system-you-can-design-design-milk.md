@@ -17,7 +17,7 @@ keywords:
   - sets
   - flexible
 description: Bent Hansen Studio just launched a flexible shelving system that breaks away from tradition. Up The Wall invites you to step in to create a shelf that works for you and your needs. One set contains one short and one long shelf that join together to form an asymmetrical cross.
-datePublished: '2016-01-31T23:10:20.594Z'
+datePublished: '2016-01-31T23:10:20.726Z'
 dateModified: '2016-01-31T23:10:17.405Z'
 author:
   - name: Caroline Williamson
