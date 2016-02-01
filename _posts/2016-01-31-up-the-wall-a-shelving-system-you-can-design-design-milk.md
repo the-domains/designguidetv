@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://design-milk.com/wall-shelving-system-can-design/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - sets
   - flexible
 description: Bent Hansen Studio just launched a flexible shelving system that breaks away from tradition. Up The Wall invites you to step in to create a shelf that works for you and your needs. One set contains one short and one long shelf that join together to form an asymmetrical cross.
-datePublished: '2016-01-31T23:10:20.726Z'
-dateModified: '2016-01-31T23:10:17.405Z'
+datePublished: '2016-02-01T00:42:34.676Z'
+dateModified: '2016-02-01T00:42:27.865Z'
 author:
   - name: Caroline Williamson
     url: 'http://design-milk.com/author/caroline/'
@@ -34,6 +33,7 @@ publisher:
   domain: design-milk.com
   url: 'http://design-milk.com'
   favicon: 'http://2.design-milk.com/favicon.ico'
+url: up-the-wall-a-shelving-system-you-can-design-design-milk/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
