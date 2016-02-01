@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T12:35:51.018Z'
-dateModified: '2016-02-01T12:35:43.694Z'
+datePublished: '2016-02-01T12:38:24.473Z'
+dateModified: '2016-02-01T12:38:21.715Z'
 title: A tour of the Nacho Carbonell studio in Eindhoven
 author: []
 sourcePath: _posts/2016-02-01-a-tour-of-the-nacho-carbonell-studio-in-eindhoven.md
@@ -27,8 +27,6 @@ _type: Article
 <iframe src="https://player.vimeo.com/video/85246610?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" style=""></iframe>
 
 > "I want to create are objects with a fictional or fantasy element, that allow you to escape everyday life." - Nacho Carbonell
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbb5279d-2e1a-48bf-893f-686598ed26a4.jpg)
 
 Nacho Carbonell graduated in 2003 at the Spanish university Cardenal Herrera C.E.U. and the 27 of January 2007 at the Design Academy Eindhoven, with the projects "Dream of sand" and "Pump it up", and was honoured with Cum Laude. Once graduated he created collections such as Evolution in 2009, which won him nominations to the design of the year by the London Design Museum, and which marked his ongoing collaboration with Galleria Rossana Orlandi. 
 
