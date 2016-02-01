@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T12:31:39.556Z'
+datePublished: '2016-02-01T12:31:39.677Z'
 dateModified: '2016-02-01T12:31:33.361Z'
 title: A tour of the Nacho Carbonell studio in Eindhoven
 author: []
