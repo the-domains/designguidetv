@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T12:38:24.521Z'
-dateModified: '2016-02-01T12:38:21.715Z'
+datePublished: '2016-02-01T12:41:13.856Z'
+dateModified: '2016-02-01T12:41:10.714Z'
 title: A tour of the Nacho Carbonell studio in Eindhoven
 author: []
 sourcePath: _posts/2016-02-01-a-tour-of-the-nacho-carbonell-studio-in-eindhoven.md
@@ -22,6 +22,8 @@ url: a-tour-of-the-nacho-carbonell-studio-in-eindhoven/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20324dbf-f0fe-4e29-a069-232b5ee43977.jpg)
+
 # A tour of the Nacho Carbonell studio in Eindhoven
 
 <iframe src="https://player.vimeo.com/video/85246610?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" style=""></iframe>
