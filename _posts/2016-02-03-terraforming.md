@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.studioswine.com'
-  name: SWINE
-  favicon: 'http://www.studioswine.com/favicon.ico'
-  domain: www.studioswine.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - crystal
   - dune
@@ -18,19 +16,29 @@ keywords:
   - vibrations
   - '2015'
 description: "Terraforming depictsa crystal planet that has been discovered in the galaxy. It follows a young cartographer's journey to the planet, where he engineers the environment to be habitable for humans using various tools of exploration. The Dune Clock tells the time with 3 million precision cut crystals; the minutes pass with falling crystals and the hour with the digital numbers."
-inLanguage: en
+datePublished: '2016-02-03T19:50:34.606Z'
+dateModified: '2016-02-03T19:50:32.239Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.studioswine.com/terraforming'
 title: Terraforming
-datePublished: '2016-02-03T19:47:03.801Z'
-dateModified: '2016-02-03T19:45:45.931Z'
 sourcePath: _posts/2016-02-03-terraforming.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SWINE
+  domain: www.studioswine.com
+  url: 'http://www.studioswine.com'
+  favicon: 'http://www.studioswine.com/favicon.ico'
+url: terraforming/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 <article style=""><h1>Terraforming</h1><p>Terraforming depictsa crystal planet that has been discovered in the galaxy&amp;period; It follows a young cartographer's journey to the planet&amp;comma; where he engineers the environment to be habitable for humans using various tools of exploration&amp;period; The Dune Clock tells the time with 3 million precision cut crystals&amp;semi; the minutes pass with falling crystals and the hour with the digital numbers&amp;period;</p><img src="http://static1.squarespace.com/static/545ffe01e4b0ccac6b57708b/t/55c4946ae4b0cf3739a90e0d/1438946417758/" /></article>
+
+<iframe src="https://player.vimeo.com/video/153339497?title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" style=""></iframe>
+
+The first ever object to be designed by man 1.7 million years ago was a flint hand axe. Flint has the same molecular structure as a crystal and they both consist of silica. The project juxtaposes the flint hand axe with the latest crystal technology; Xero chaton the world's smallest precision cut crystal measuring 0.6mm in diameter, smaller than a grain of sand.
+
+_Terraforming _is a project commissioned for Designer of the Future 2015 by Swarovski at Design Miami/ Basel.
