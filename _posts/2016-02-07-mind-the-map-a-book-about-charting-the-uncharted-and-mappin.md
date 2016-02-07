@@ -16,8 +16,8 @@ keywords:
   - klanten
   - ehmann
 description: 'Mind the Map: Illustrated Maps and Cartography is created for wander-lusting real world travellers and daydreamers alike. Published by Gestalten, this 288 page, timeless tome is a colourful, full-page showcase of the art of contemporary map making.'
-datePublished: '2016-02-07T18:34:08.068Z'
-dateModified: '2016-02-07T18:33:38.609Z'
+datePublished: '2016-02-07T18:56:21.656Z'
+dateModified: '2016-02-07T18:56:18.434Z'
 author: []
 related:
   - score: 0.6741251349
@@ -29,14 +29,14 @@ related:
     thumbnail_width: null
 app_links: []
 title: 'Mind the Map: a Book about Charting the Uncharted and Mapping the Familiar | Yatzer'
+sourcePath: _posts/2016-02-07-mind-the-map-a-book-about-charting-the-uncharted-and-mappin.md
+published: true
 authors: []
 publisher:
   name: Yatzer
   domain: www.yatzer.com
   url: 'https://www.yatzer.com'
   favicon: 'https://www.yatzer.com/sites/all/themes/yatzer/images/favicon.ico'
-sourcePath: _posts/2016-02-07-mind-the-map-a-book-about-charting-the-uncharted-and-mappin.md
-published: true
 url: mind-the-map-a-book-about-charting-the-uncharted-and-mappin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
