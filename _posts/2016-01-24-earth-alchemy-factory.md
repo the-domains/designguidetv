@@ -16,8 +16,8 @@ keywords:
   - learn
   - made
 description: "Atelier NL's Earth Alchemy Factory invites you to explore the world of natural materials by learning and making as a community. Through their rich visual stories, you will learn about glass made from sand, paint made from soil, and ceramics made from clay."
-datePublished: '2016-02-09T14:02:46.704Z'
-dateModified: '2016-02-09T14:02:45.534Z'
+datePublished: '2016-02-09T14:14:54.186Z'
+dateModified: '2016-02-09T14:14:51.297Z'
 author: []
 related: []
 app_links: []
@@ -40,10 +40,9 @@ _type: MediaObject
 <iframe src="https://player.vimeo.com/video/141410268?title=0&amp;byline=0&amp;portrait=0" width="700" height="393" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" style=""></iframe>
 
 ][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00aec8bd-f939-4abf-8487-9146c9160d5a.jpg)
 
 <article style=""><h1>Earth Alchemy Factory </h1><p>Atelier NL's Earth Alchemy Factory invites you to explore the world of natural materials by learning and making as a community. Through their rich visual stories, you will learn about glass made from sand, paint made from soil, and ceramics made from clay.</p></article>
 
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00aec8bd-f939-4abf-8487-9146c9160d5a.jpg)
 
 [0]: https://www.youtube.com/watch?v=R_118tFJZB0&index=2&list=PLSM1HuwZomMjRjHtgi4tnt_M40lRFsvTK
