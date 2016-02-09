@@ -16,7 +16,7 @@ keywords:
   - learn
   - made
 description: "Atelier NL's Earth Alchemy Factory invites you to explore the world of natural materials by learning and making as a community. Through their rich visual stories, you will learn about glass made from sand, paint made from soil, and ceramics made from clay."
-datePublished: '2016-02-09T13:54:38.575Z'
+datePublished: '2016-02-09T13:54:45.839Z'
 dateModified: '2016-02-09T13:54:20.820Z'
 author: []
 related: []
