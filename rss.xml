@@ -4,8 +4,15 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>https://thegrid.ai/designguidetv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 21:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 21:17:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designguidetv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thomas Traxler, Autonomous spinning wheel]]></title>
+            <description><![CDATA[<article><h1>Thomas Traxler, Autonomous spinning wheel</h1><p>Powered by nothing but sunlight and some threads, Thomas Traxlers' "The idea of a tree project" shows us how objects can grow during the course of a day. The installation is powered by a couple of solar cells which power the entire device, causing the process to move faster or slower depending on the amount of available light.</p></article>]]></description>
+            <link>https://vimeo.com/1277316</link>
+            <guid isPermaLink="false">bb369314-1bc0-4ff5-9d2b-7355c71afee4</guid>
+            <pubDate>Wed, 10 Feb 2016 21:17:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JongeriusLab for By TextielMuseum]]></title>
             <description><![CDATA[<article><h1>JongeriusLab for By TextielMuseum</h1><p>TextielMuseum asked Jongeriuslab to coach the designers of Studio Truly Truly and together develop new domestic products for by TextielMuseum. In this way, as an educational institution, we underline the importance of knowledge transfer to a new generation of design talent. One of the products resulting from the collaboration is this abstract, graphic plaid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e6a4963e0e41022b332a363e3a3664191b9e61f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/designguidetv/michael-young-exhibition-at-grand-hornu-is-all-aluminium/index.html</link>
             <guid isPermaLink="false">f3827e39-e25e-4e42-869e-9797a7e99764</guid>
             <pubDate>Wed, 03 Feb 2016 19:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Top 10 Finds From Maison & Objet - Sight Unseen]]></title>
-            <description><![CDATA[<article><h1>Our Top 10 Finds From Maison & Objet - Sight Unseen</h1><p>These days, browsing the halls of the massive Paris design show Maison & Objet isn't exactly what it used to be. Now, you're guaranteed to spot the latest electronic accessories or bike brands wedged in between the textiles and furniture (hence the inclusion of stationery in today's round-up!)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b89d9b79713d05a3c980166b11588d3df7932379.jpg"></article>]]></description>
-            <link>http://www.sightunseen.com/2016/02/best-new-furniture-finds-maison-objet/</link>
-            <guid isPermaLink="false">ea9b9071-fc1f-4ae2-8c43-8a432b236f49</guid>
-            <pubDate>Wed, 03 Feb 2016 23:47:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
