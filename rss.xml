@@ -4,15 +4,8 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>https://thegrid.ai/designguidetv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 21:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 21:21:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designguidetv/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[In Limbo Embassy]]></title>
-            <description><![CDATA[<article><h1>In Limbo Embassy</h1><p>In Limbo Embassy is a traveling embassy for and by asylum seekers 'in limbo': those who are caught between two stools. These refugees, acting as ambassadors, invite visitors to talk about their situation. Refugees often do not feel represented by their own embassy or by the media.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2eb7f506e0a599cf9f64b417cfb8662f6be525e9.jpg"></article>]]></description>
-            <link>https://vimeo.com/140318393</link>
-            <guid isPermaLink="false">58fd9d04-f830-44b6-8f3b-dacc8b8fda16</guid>
-            <pubDate>Wed, 10 Feb 2016 21:21:48 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Nosigner]]></title>
             <description><![CDATA[<article><h1>Nosigner</h1><p>Nosigner is somebody who designs invisible thing without any explicit signature. We met up with him at the London Design festival, and again at the Tokyo Design week for a quick talk about his work and the ideas behind it. www.nosigner.com should be up in HD now</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/160ee5ce0d2f095cdfdab50a8fde051e87389809.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/designguidetv/future-day-spa-by-lucy-mcrae/index.html</link>
             <guid isPermaLink="false">c5d35242-2821-489c-90cf-34baba69875d</guid>
             <pubDate>Wed, 03 Feb 2016 20:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Terraforming]]></title>
+            <description><![CDATA[<article><h1>Terraforming</h1><p>Terraforming is a project commissioned for Designer of the Future 2015 by Swarovski at Design Miami/ Basel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92c20631d52804c6ca7b7a160af8b151fe874704.jpg"></article>]]></description>
+            <link>https://thegrid.ai/designguidetv/terraforming/index.html</link>
+            <guid isPermaLink="false">71c5d617-bf32-4640-a672-22864784df98</guid>
+            <pubDate>Tue, 09 Feb 2016 15:05:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
