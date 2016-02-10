@@ -34,14 +34,14 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/140318393'
 title: In Limbo Embassy
-datePublished: '2016-02-10T21:21:48.727Z'
-dateModified: '2016-02-10T21:21:45.713Z'
+datePublished: '2016-02-10T21:31:13.551Z'
+dateModified: '2016-02-10T21:31:11.076Z'
 sourcePath: _posts/2016-02-10-in-limbo-embassy.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _type: VideoObject
 _context: 'http://schema.org'
