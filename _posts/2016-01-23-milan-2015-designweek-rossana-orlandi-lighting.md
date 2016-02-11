@@ -16,8 +16,8 @@ keywords:
   - milan
   - gallery
 description: 'featuring designers and companies: Alexa Lixfeld, Ambientec, Arnout Meijer, Deform, Egli studio, Floris Wubben, German Ermics, Henry Wielgus, Hillsideout, Jan Plechac, Jolan van der Wiel, Lasvit, Marjan van Aubel, Ryu Kozeki'
-datePublished: '2016-02-11T12:25:00.574Z'
-dateModified: '2016-02-11T12:24:57.702Z'
+datePublished: '2016-02-11T12:31:29.985Z'
+dateModified: '2016-02-11T12:31:27.022Z'
 author: []
 related: []
 app_links: []
@@ -42,7 +42,7 @@ _type: MediaObject
 ][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/99b1f8b6fbf1b77181606a0488b88b24060dc282.jpg)
 
-<article style=""><h1>Milan 2015&amp;comma; designweek&amp;comma; Rossana Orlandi&amp;comma; lighting</h1><p>featuring designers and companies&amp;colon; Alexa Lixfeld&amp;comma; Ambientec&amp;comma; Arnout Meijer&amp;comma; Deform&amp;comma; Egli studio&amp;comma; Floris Wubben&amp;comma; German Ermics&amp;comma; Henry Wielgus&amp;comma; Hillsideout&amp;comma; Jan Plechac&amp;comma; Jolan van der Wiel&amp;comma; Lasvit&amp;comma; Marjan van Aubel&amp;comma; Ryu Kozeki</p></article>
+<article style=""><h1>Milan 2015, designweek, Rossana Orlandi, lighting</h1><p>featuring designers and companies: Alexa Lixfeld, Ambientec, Arnout Meijer, Deform, Egli studio, Floris Wubben, German Ermics, Henry Wielgus, Hillsideout, Jan Plechac, Jolan van der Wiel, Lasvit, Marjan van Aubel, Ryu Kozeki</p></article>
 
 
 
