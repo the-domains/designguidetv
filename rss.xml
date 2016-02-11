@@ -4,8 +4,15 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>http://designguide.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 12:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 18:21:44 GMT</lastBuildDate>
         <atom:link href="http://designguide.tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Okay Studio, under the same roof]]></title>
+            <description><![CDATA[<article><h1>Okay Studio, under the same roof</h1><p>OKAY Studio is a collective of individual designers sharing a bit more then a workspace. This will be the first curated exhibition (presented at the London Design Festival 2008) of the group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e46a930ed63c2347bcab76476f7bf2f7d8cdb5e3.jpg"></article>]]></description>
+            <link>https://vimeo.com/2484025</link>
+            <guid isPermaLink="false">b50f1586-d4ef-40d2-8820-1d2883405ffc</guid>
+            <pubDate>Thu, 11 Feb 2016 18:20:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Milan 2015, designweek, Rossana Orlandi, lighting]]></title>
             <description><![CDATA[<article><h1>Milan 2015, designweek, Rossana Orlandi, lighting</h1><p>featuring designers and companies: Alexa Lixfeld, Ambientec, Arnout Meijer, Deform, Egli studio, Floris Wubben, German Ermics, Henry Wielgus, Hillsideout, Jan Plechac, Jolan van der Wiel, Lasvit, Marjan van Aubel, Ryu Kozeki</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27e3086e472508e46761f810ee5e4d740f321884.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://designguide.tv/reusing-plastic-bags-in-the-anudando-project-or-designguidet/index.html</link>
             <guid isPermaLink="false">f3a4f23f-b3d7-4072-8c3f-92cd8118b06f</guid>
             <pubDate>Thu, 11 Feb 2016 12:25:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Earth Alchemy Factory]]></title>
-            <description><![CDATA[<article><h1>Earth Alchemy Factory</h1><p>Atelier NL's Earth Alchemy Factory invites you to explore the world of natural materials by learning and making as a community. Through their rich visual stories, you will learn about glass made from sand, paint made from soil, and ceramics made from clay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df8a1e17b65cddcc7f8972daf4b8e7620f7c6c81.jpg"></article>]]></description>
-            <link>http://designguide.tv/earth-alchemy-factory/index.html</link>
-            <guid isPermaLink="false">16d55d8f-6056-430d-9538-1f359975399c</guid>
-            <pubDate>Tue, 09 Feb 2016 14:14:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
