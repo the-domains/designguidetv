@@ -16,8 +16,8 @@ keywords:
   - milan
   - gallery
 description: 'featuring designers and companies: Alexa Lixfeld, Ambientec, Arnout Meijer, Deform, Egli studio, Floris Wubben, German Ermics, Henry Wielgus, Hillsideout, Jan Plechac, Jolan van der Wiel, Lasvit, Marjan van Aubel, Ryu Kozeki'
-datePublished: '2016-01-28T12:23:07.914Z'
-dateModified: '2016-01-24T01:56:36.711Z'
+datePublished: '2016-02-11T12:25:00.574Z'
+dateModified: '2016-02-11T12:24:57.702Z'
 author: []
 related: []
 app_links: []
@@ -35,14 +35,15 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7ac3706-eef7-43d2-a898-57b284bab211.jpg)
-
-<article style=""><h1>Milan 2015&amp;comma; designweek&amp;comma; Rossana Orlandi&amp;comma; lighting</h1><p>featuring designers and companies&amp;colon; Alexa Lixfeld&amp;comma; Ambientec&amp;comma; Arnout Meijer&amp;comma; Deform&amp;comma; Egli studio&amp;comma; Floris Wubben&amp;comma; German Ermics&amp;comma; Henry Wielgus&amp;comma; Hillsideout&amp;comma; Jan Plechac&amp;comma; Jolan van der Wiel&amp;comma; Lasvit&amp;comma; Marjan van Aubel&amp;comma; Ryu Kozeki</p></article>
-
 [
 
 <iframe src="https://player.vimeo.com/video/130113942?title=0&amp;byline=0&amp;portrait=0" width="700" height="393" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" style=""></iframe>
 
 ][0]
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/99b1f8b6fbf1b77181606a0488b88b24060dc282.jpg)
+
+<article style=""><h1>Milan 2015&amp;comma; designweek&amp;comma; Rossana Orlandi&amp;comma; lighting</h1><p>featuring designers and companies&amp;colon; Alexa Lixfeld&amp;comma; Ambientec&amp;comma; Arnout Meijer&amp;comma; Deform&amp;comma; Egli studio&amp;comma; Floris Wubben&amp;comma; German Ermics&amp;comma; Henry Wielgus&amp;comma; Hillsideout&amp;comma; Jan Plechac&amp;comma; Jolan van der Wiel&amp;comma; Lasvit&amp;comma; Marjan van Aubel&amp;comma; Ryu Kozeki</p></article>
+
+
 
 [0]: https://www.youtube.com/watch?v=R_118tFJZB0&index=2&list=PLSM1HuwZomMjRjHtgi4tnt_M40lRFsvTK
