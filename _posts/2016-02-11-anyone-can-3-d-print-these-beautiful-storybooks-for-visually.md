@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.fastcodesign.com'
   name: Co.Design
-  favicon: 'http://www.fastcodesign.com/favicon.ico'
   domain: www.fastcodesign.com
+  url: 'http://www.fastcodesign.com'
+  favicon: 'http://www.fastcodesign.com/favicon.ico'
 keywords:
   - tactile
   - book
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.fastcodesign.com/3056557/wanted/anyone-can-3-d-print-these-beautiful-storybooks-for-visually-impaired-kids'
 title: Anyone Can 3-D Print These Beautiful Storybooks For Visually Impaired Kids
-datePublished: '2016-02-11T18:22:19.817Z'
-dateModified: '2016-02-11T18:15:56.737Z'
+datePublished: '2016-02-11T20:27:33.466Z'
+dateModified: '2016-02-11T18:23:48.542Z'
 sourcePath: _posts/2016-02-11-anyone-can-3-d-print-these-beautiful-storybooks-for-visually.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
