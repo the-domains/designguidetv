@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  name: Co.Design
-  domain: www.fastcodesign.com
-  url: 'http://www.fastcodesign.com'
-  favicon: 'http://www.fastcodesign.com/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.fastcodesign.com/3056557/wanted/anyone-can-3-d-print-these-beautiful-storybooks-for-visually-impaired-kids'
+inLanguage: en
+starred: false
 keywords:
   - tactile
   - book
@@ -18,21 +17,22 @@ keywords:
   - braille
   - picture
 description: "Behavioral studies have long shown that known that reading stories to infants and children supports cognitive development (and you don't need science to recognize how much kids love hearing a story)."
-inLanguage: en
+datePublished: '2016-02-11T21:45:52.558Z'
+dateModified: '2016-02-11T21:28:50.461Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.fastcodesign.com/3056557/wanted/anyone-can-3-d-print-these-beautiful-storybooks-for-visually-impaired-kids'
 title: Anyone Can 3-D Print These Beautiful Storybooks For Visually Impaired Kids
-datePublished: '2016-02-11T20:42:32.890Z'
-dateModified: '2016-02-11T20:38:45.108Z'
 sourcePath: _posts/2016-02-11-anyone-can-3-d-print-these-beautiful-storybooks-for-visually.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: false
 authors: []
+publisher:
+  name: Co.Design
+  domain: www.fastcodesign.com
+  url: 'http://www.fastcodesign.com'
+  favicon: 'http://www.fastcodesign.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Anyone Can 3-D Print These Beautiful Storybooks For Visually Impaired Kids</h1><p>Behavioral studies have long shown that known that reading stories to infants and children supports cognitive development &amp;lpar;and you don't need science to recognize how much kids love hearing a story&amp;rpar;&amp;period;</p><img src="http://h.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2016/02/3056557-inline-s-5-beautiful-3d-printed-story-books-for-visually.jpg" /></article>
+<article style=""><h1>Anyone Can 3-D Print These Beautiful Storybooks For Visually Impaired Kids</h1><p>Behavioral studies have long shown that known that reading stories to infants and children supports cognitive development (and you don't need science to recognize how much kids love hearing a story).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3389316755917306b5d983d420e97ba8a9b6f6a.jpg" /></article>
