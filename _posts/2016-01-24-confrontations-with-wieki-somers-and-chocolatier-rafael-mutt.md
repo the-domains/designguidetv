@@ -16,8 +16,8 @@ keywords:
   - bobo
   - chocolatier
 description: "Wieki Somers and Rafael Mutter created this chocolate slicer, inspired by Marcel Duchamp's chocolate grinder. Each block of chocolate weighs over 100 kg, and when thinly sliced they reveal patterns in the form of African bobo (cocoa pickers believe they have special powers for a good harvest) masks."
-datePublished: '2016-01-28T12:26:31.725Z'
-dateModified: '2016-01-28T12:26:28.633Z'
+datePublished: '2016-02-11T12:23:58.731Z'
+dateModified: '2016-02-11T12:23:57.166Z'
 author: []
 related: []
 app_links: []
@@ -35,9 +35,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba25b0eb-93ee-4f12-b170-d8ed38eb7bd5.jpg)
-
 <iframe src="https://player.vimeo.com/video/44366737?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba25b0eb-93ee-4f12-b170-d8ed38eb7bd5.jpg)
 
 <article style=""><h1>Confrontations with Wieki Somers and chocolatier Rafael Mutter - Designguide.tv</h1><p>July 13, 2012</p></article>
 
