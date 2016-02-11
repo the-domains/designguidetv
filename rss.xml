@@ -4,15 +4,8 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>http://designguide.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 12:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 12:24:49 GMT</lastBuildDate>
         <atom:link href="http://designguide.tv/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Confrontations with Wieki Somers and chocolatier Rafael Mutter - Designguide.tv]]></title>
-            <description><![CDATA[<article><h1>Confrontations with Wieki Somers and chocolatier Rafael Mutter - Designguide.tv</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcff938206f5ccc49065447ba1f721fcb0dbe3a2.jpg"></article>]]></description>
-            <link>http://designguide.tv/confrontations-with-wieki-somers-and-chocolatier-rafael-mutt/index.html</link>
-            <guid isPermaLink="false">ec99e5e3-1c1e-4315-a256-0a887172c1de</guid>
-            <pubDate>Thu, 11 Feb 2016 12:23:58 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The High Line - Designguide.tv]]></title>
             <description><![CDATA[<article><h1>The High Line - Designguide.tv</h1><p>The High Line design is a collaboration between James Corner Field Operations (Project Lead), Diller Scofidio + Renfro, and planting designer Piet Oudolf.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/488ceaae49a73cf3d59626ba162a6b60dd1b1ef2.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://designguide.tv/the-spiral-office-tower-in-new-york-by-bjarke-ingels-group/index.html</link>
             <guid isPermaLink="false">3eccf80c-75be-4c5a-86ca-eedcb5c5c1a8</guid>
             <pubDate>Tue, 09 Feb 2016 13:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mind the Map: a Book about Charting the Uncharted and Mapping the Familiar | Yatzer]]></title>
+            <description><![CDATA[<article><h1>Mind the Map: a Book about Charting the Uncharted and Mapping the Familiar | Yatzer</h1><p> The featured maps vary from the hand-illustrated city guides of Libby VanderPloeg, to the etchings of Mychael Barratt, and from the simple modular forms of Cruschiform, to the retro-futuristic, cartoon-inspired pieces of Mads Berg, plus countless other artists and mediums in between. This book exemplifies the fact that there are as many and as varied maps as there are artists, proving that maps are unique, personal interpretations of our surroundings according to the artists’ viewpoint.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/744d8db4e6986bad3c482b6e3ca07c70fda90364.jpg"></article>]]></description>
+            <link>http://designguide.tv/mind-the-map-a-book-about-charting-the-uncharted-and-mappin/index.html</link>
+            <guid isPermaLink="false">ac8b92f2-c1ad-40d5-8784-2df4e91dd515</guid>
+            <pubDate>Sun, 07 Feb 2016 18:56:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
