@@ -16,20 +16,20 @@ keywords:
   - scofidio
   - renfro
 description: ''
-datePublished: '2016-01-25T09:20:20.223Z'
-dateModified: '2016-01-25T09:15:50.639Z'
+datePublished: '2016-02-11T12:22:45.958Z'
+dateModified: '2016-02-11T12:22:44.348Z'
 author: []
 related: []
 app_links: []
 title: The High Line - Designguide.tv
+sourcePath: _posts/2016-01-25-the-high-line-designguidetv.md
+published: true
 authors: []
 publisher:
   name: Designguide
   domain: www.designguide.tv
   url: 'http://www.designguide.tv'
   favicon: null
-sourcePath: _posts/2016-01-25-the-high-line-designguidetv.md
-published: true
 url: the-high-line-designguidetv/index.html
 _context: 'http://schema.org'
 _type: MediaObject
