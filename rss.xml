@@ -4,11 +4,18 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>http://designguide.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 21:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 09:11:55 GMT</lastBuildDate>
         <atom:link href="http://designguide.tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Up The Wall: A Shelving System You Can Design - Design Milk]]></title>
+            <description><![CDATA[<article><h1>Up The Wall: A Shelving System You Can Design - Design Milk</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1afb6e46e555996e09352d7514c50cd5a24a8912.jpg"></article>]]></description>
+            <link>http://designguide.tv/up-the-wall-a-shelving-system-you-can-design-design-milk/index.html</link>
+            <guid isPermaLink="false">e04868f2-70aa-43cf-89f1-e8d81be82f5a</guid>
+            <pubDate>Fri, 12 Feb 2016 09:11:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Anyone Can 3-D Print These Beautiful Storybooks For Visually Impaired Kids]]></title>
-            <description><![CDATA[<article><h1>Anyone Can 3-D Print These Beautiful Storybooks For Visually Impaired Kids</h1><p>Behavioral studies have long shown that known that reading stories to infants and children supports cognitive development (and you don't need science to recognize how much kids love hearing a story).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8532166fe3bbf632e1c2ddaf68fb84f50211f928.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Anyone Can 3-D Print These Beautiful Storybooks For Visually Impaired Kids</h1><p>Behavioral studies have long shown that known that reading stories to infants and children supports cognitive development (and you don't need science to recognize how much kids love hearing a story).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44ec505e0df1fef7fe0bcfc46dfcc83089bfebbf.jpg"></article>]]></description>
             <link>http://www.fastcodesign.com/3056557/wanted/anyone-can-3-d-print-these-beautiful-storybooks-for-visually-impaired-kids</link>
             <guid isPermaLink="false">52bca702-489a-4e56-a265-adfee6672d5d</guid>
             <pubDate>Thu, 11 Feb 2016 21:45:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/2305584</link>
             <guid isPermaLink="false">b09a0b65-e8ad-441c-8178-e689b46acd0e</guid>
             <pubDate>Wed, 10 Feb 2016 21:21:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thomas Traxler, Autonomous spinning wheel]]></title>
-            <description><![CDATA[<article><h1>Thomas Traxler, Autonomous spinning wheel</h1><p>Powered by nothing but sunlight and some threads, Thomas Traxlers' "The idea of a tree project" shows us how objects can grow during the course of a day. The installation is powered by a couple of solar cells which power the entire device, causing the process to move faster or slower depending on the amount of available light.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df698ea8801434eb52c6590e8ef9e85ae24da90f.jpg"></article>]]></description>
-            <link>https://vimeo.com/1277316</link>
-            <guid isPermaLink="false">bb369314-1bc0-4ff5-9d2b-7355c71afee4</guid>
-            <pubDate>Wed, 10 Feb 2016 21:17:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
