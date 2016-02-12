@@ -16,8 +16,8 @@ keywords:
   - zanten
   - ontwerpers
 description: "Julia van Zanten decided to challenge the issue of the stigma related to incontinence, her inspiration, a family member who suddenly decided they didn't feel comfortable going on long walks with her."
-datePublished: '2016-02-12T12:23:20.811Z'
-dateModified: '2016-02-12T12:23:12.894Z'
+datePublished: '2016-02-12T12:28:31.380Z'
+dateModified: '2016-02-12T12:28:27.985Z'
 author:
   - name: Robert Andriessen
     url: 'http://vimeo.com/ydn'
@@ -34,14 +34,14 @@ app_links:
     app_name: Vimeo
     package: com.vimeo.android.videoapp
 title: Protective Underwear - Julia van Zanten
+sourcePath: _posts/2016-02-12-protective-underwear-julia-van-zanten.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-02-12-protective-underwear-julia-van-zanten.md
-published: true
 url: protective-underwear-julia-van-zanten/index.html
 _type: VideoObject
 _context: 'http://schema.org'
@@ -57,4 +57,7 @@ Julia created a washable textile underwear accompanied by washing elements and a
 
 more info on [Juliavanzanten.com][0]
 
+Update: Julia has gone on to form a company specialising in healthcare + design. Protective underwear is now available under the name Carin Protect.  [www.carinwear.com][1]
+
 [0]: www.juliavanzanten.com
+[1]: https://carinwear.com/
