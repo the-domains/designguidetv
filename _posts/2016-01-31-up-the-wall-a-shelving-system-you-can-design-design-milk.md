@@ -16,8 +16,8 @@ keywords:
   - sets
   - flexible
 description: Bent Hansen Studio just launched a flexible shelving system that breaks away from tradition. Up The Wall invites you to step in to create a shelf that works for you and your needs. One set contains one short and one long shelf that join together to form an asymmetrical cross.
-datePublished: '2016-02-01T00:42:34.676Z'
-dateModified: '2016-02-01T00:42:27.865Z'
+datePublished: '2016-02-12T09:11:27.372Z'
+dateModified: '2016-02-12T09:11:24.140Z'
 author:
   - name: Caroline Williamson
     url: 'http://design-milk.com/author/caroline/'
@@ -38,6 +38,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Up The Wall&amp;colon; A Shelving System You Can Design - Design Milk</h1><p>Bent Hansen Studio just launched a flexible shelving system that breaks away from tradition&amp;period; Up The Wall invites you to step in to create a shelf that works for you and your needs&amp;period; One set contains one short and one long shelf that join together to form an asymmetrical cross&amp;period;</p><img src="http://3.design-milk.com/images/2016/01/up_the_wall_shelves-Bent-Hansen-Studio-1.jpg" /></article>
+<article style=""><h1>Up The Wall: A Shelving System You Can Design - Design Milk</h1><p>Bent Hansen Studio just launched a flexible shelving system that breaks away from tradition. Up The Wall invites you to step in to create a shelf that works for you and your needs. One set contains one short and one long shelf that join together to form an asymmetrical cross.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1afb6e46e555996e09352d7514c50cd5a24a8912.jpg" /></article>
 
 <iframe src="https://player.vimeo.com/video/148095688" width="500" height="281" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" style=""></iframe>
