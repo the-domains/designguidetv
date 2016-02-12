@@ -4,11 +4,18 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>http://designguide.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 09:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 09:15:55 GMT</lastBuildDate>
         <atom:link href="http://designguide.tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<h1>Contact</h1>]]></description>
+            <link>http://designguide.tv/contact/index.html</link>
+            <guid isPermaLink="false">08048aaf-5de8-4438-81b1-472f16b24768</guid>
+            <pubDate>Fri, 12 Feb 2016 09:15:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Up The Wall: A Shelving System You Can Design - Design Milk]]></title>
-            <description><![CDATA[<article><h1>Up The Wall: A Shelving System You Can Design - Design Milk</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1afb6e46e555996e09352d7514c50cd5a24a8912.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Up The Wall: A Shelving System You Can Design - Design Milk</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e37b46db1fd68760dc398da132c957c53fb8a06.jpg"></article>]]></description>
             <link>http://designguide.tv/up-the-wall-a-shelving-system-you-can-design-design-milk/index.html</link>
             <guid isPermaLink="false">e04868f2-70aa-43cf-89f1-e8d81be82f5a</guid>
             <pubDate>Fri, 12 Feb 2016 09:11:27 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/140318393</link>
             <guid isPermaLink="false">58fd9d04-f830-44b6-8f3b-dacc8b8fda16</guid>
             <pubDate>Wed, 10 Feb 2016 21:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nosigner]]></title>
-            <description><![CDATA[<article><h1>Nosigner</h1><p>Nosigner is somebody who designs invisible thing without any explicit signature. We met up with him at the London Design festival, and again at the Tokyo Design week for a quick talk about his work and the ideas behind it. www.nosigner.com should be up in HD now</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/160ee5ce0d2f095cdfdab50a8fde051e87389809.jpg"></article>]]></description>
-            <link>https://vimeo.com/2305584</link>
-            <guid isPermaLink="false">b09a0b65-e8ad-441c-8178-e689b46acd0e</guid>
-            <pubDate>Wed, 10 Feb 2016 21:21:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
