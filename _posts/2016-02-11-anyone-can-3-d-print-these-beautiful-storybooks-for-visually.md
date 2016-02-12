@@ -17,8 +17,8 @@ keywords:
   - braille
   - picture
 description: "Behavioral studies have long shown that known that reading stories to infants and children supports cognitive development (and you don't need science to recognize how much kids love hearing a story)."
-datePublished: '2016-02-11T21:45:52.558Z'
-dateModified: '2016-02-11T21:28:50.461Z'
+datePublished: '2016-02-12T09:15:18.213Z'
+dateModified: '2016-02-12T09:15:17.586Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Anyone Can 3-D Print These Beautiful Storybooks For Visually Impaired Kids</h1><p>Behavioral studies have long shown that known that reading stories to infants and children supports cognitive development (and you don't need science to recognize how much kids love hearing a story).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3389316755917306b5d983d420e97ba8a9b6f6a.jpg" /></article>
+<article style=""><h1>Anyone Can 3-D Print These Beautiful Storybooks For Visually Impaired Kids</h1><p>Behavioral studies have long shown that known that reading stories to infants and children supports cognitive development (and you don't need science to recognize how much kids love hearing a story).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8532166fe3bbf632e1c2ddaf68fb84f50211f928.jpg" /></article>
