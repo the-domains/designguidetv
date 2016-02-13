@@ -4,8 +4,15 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>http://designguide.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 13:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 14:00:33 GMT</lastBuildDate>
         <atom:link href="http://designguide.tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Future Day Spa by Lucy McRae]]></title>
+            <description><![CDATA[<article><h1>Future Day Spa by Lucy McRae</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4659b267495ecf805e5582609196951ab2e05028.jpg"></article>]]></description>
+            <link>http://designguide.tv/future-day-spa-by-lucy-mcrae/index.html</link>
+            <guid isPermaLink="false">c5d35242-2821-489c-90cf-34baba69875d</guid>
+            <pubDate>Sat, 13 Feb 2016 13:59:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Protective Underwear - Julia van Zanten]]></title>
             <description><![CDATA[<article><h1>Protective Underwear - Julia van Zanten</h1><p>“Practical solutions exist in the form of adult diapers, but these do nothing to address the emotional side of this common problem” Julia created a washable textile underwear accompanied by washing elements and a campaign to bring awareness to the subject. The aim: to restore some dignity and a sense of security when leaving the home. Take a look and decide for yourself, is this something you'd rather wear then an adult diaper? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62ed5fa32a1abee63cae503e59f260f1d39f62cb.jpg"></article>]]></description>
@@ -25,7 +32,7 @@
             <description><![CDATA[<article><h1>Anyone Can 3-D Print These Beautiful Storybooks For Visually Impaired Kids</h1><p>Behavioral studies have long shown that known that reading stories to infants and children supports cognitive development (and you don't need science to recognize how much kids love hearing a story).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a3afe92c27459d380537ffc14be8e227f41147a.jpg"></article>]]></description>
             <link>http://www.fastcodesign.com/3056557/wanted/anyone-can-3-d-print-these-beautiful-storybooks-for-visually-impaired-kids</link>
             <guid isPermaLink="false">52bca702-489a-4e56-a265-adfee6672d5d</guid>
-            <pubDate>Fri, 12 Feb 2016 09:15:18 GMT</pubDate>
+            <pubDate>Sat, 13 Feb 2016 13:58:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meta launch in Milan]]></title>
@@ -68,13 +75,6 @@
             <link>http://designguide.tv/in-conjunction-with-a-major-retrospective-on-gerrit-rietveld/index.html</link>
             <guid isPermaLink="false">873d7e03-3a8b-4e06-9182-fb506f247c0a</guid>
             <pubDate>Thu, 11 Feb 2016 12:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Limbo Embassy]]></title>
-            <description><![CDATA[<article><h1>In Limbo Embassy</h1><p>In Limbo Embassy is a traveling embassy for and by asylum seekers 'in limbo': those who are caught between two stools. These refugees, acting as ambassadors, invite visitors to talk about their situation. Refugees often do not feel represented by their own embassy or by the media.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2eb7f506e0a599cf9f64b417cfb8662f6be525e9.jpg"></article>]]></description>
-            <link>https://vimeo.com/140318393</link>
-            <guid isPermaLink="false">58fd9d04-f830-44b6-8f3b-dacc8b8fda16</guid>
-            <pubDate>Wed, 10 Feb 2016 21:31:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
