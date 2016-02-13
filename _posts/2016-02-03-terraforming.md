@@ -16,12 +16,12 @@ keywords:
   - vibrations
   - '2015'
 description: "Terraforming depictsa crystal planet that has been discovered in the galaxy. It follows a young cartographer's journey to the planet, where he engineers the environment to be habitable for humans using various tools of exploration. The Dune Clock tells the time with 3 million precision cut crystals; the minutes pass with falling crystals and the hour with the digital numbers."
-datePublished: '2016-02-13T14:03:04.480Z'
-dateModified: '2016-02-13T14:03:01.956Z'
+datePublished: '2016-02-13T14:03:24.690Z'
+dateModified: '2016-02-13T14:03:22.177Z'
 author: []
 related: []
 app_links: []
-title: Terraforming
+title: Terraforming by Studio Swine
 sourcePath: _posts/2016-02-03-terraforming.md
 published: true
 authors: []
