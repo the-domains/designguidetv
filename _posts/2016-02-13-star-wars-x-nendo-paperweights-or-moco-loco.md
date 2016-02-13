@@ -16,20 +16,20 @@ keywords:
   - design4
   - paperweights
 description: "Says Nendo, \"Many character goods have been made based on the film, with many based on 2D image manipulation. So we wanted to open up new possibilities by creating a simplified 3D form. For example, a consecutive repetition of Darth Vader's concave eyes and mouth turned the object into the instantly recognizable character from every angle.\""
-datePublished: '2016-02-13T15:54:52.705Z'
-dateModified: '2016-02-13T15:54:40.354Z'
+datePublished: '2016-02-13T18:26:29.302Z'
+dateModified: '2016-02-13T16:08:23.050Z'
 author: []
 related: []
 app_links: []
 title: 'Star Wars x Nendo paperweights. | MOCO LOCO'
+sourcePath: _posts/2016-02-13-star-wars-x-nendo-paperweights-or-moco-loco.md
+published: true
 authors: []
 publisher:
   name: Mocoloco
   domain: mocoloco.com
   url: 'http://mocoloco.com'
   favicon: 'http://mocoloco.com/favicon.ico'
-sourcePath: _posts/2016-02-13-star-wars-x-nendo-paperweights-or-moco-loco.md
-published: true
 url: star-wars-x-nendo-paperweights-or-moco-loco/index.html
 _context: 'http://schema.org'
 _type: MediaObject
