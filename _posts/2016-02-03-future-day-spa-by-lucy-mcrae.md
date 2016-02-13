@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The Future Day Spa is a personlised, physiological experience delivering controlled vacuum pressure to the body replicating the feeling of being hugged.'
-datePublished: '2016-02-03T20:57:55.579Z'
-dateModified: '2016-02-03T20:57:53.138Z'
+datePublished: '2016-02-13T13:59:27.005Z'
+dateModified: '2016-02-13T13:59:24.954Z'
 title: Future Day Spa by Lucy McRae
 author: []
 sourcePath: _posts/2016-02-03-future-day-spa-by-lucy-mcrae.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 <iframe src="https://player.vimeo.com/video/154066437?title=0&amp;byline=0&amp;portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" style=""></iframe>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05b1e35b-093a-4c53-9785-37c58e6efa16.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4659b267495ecf805e5582609196951ab2e05028.jpg)
 
 Guided by a therapist, participants hand their bodies over to a part--human, part--machine process inducing a state of relaxation. A collaboration between Qualcomm's Inventor Lab, we integrated technologies for capturing biometric data to understand the physiological benefits of a treatment.
 
