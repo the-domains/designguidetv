@@ -16,8 +16,8 @@ keywords:
   - zanten
   - ontwerpers
 description: "Julia van Zanten decided to challenge the issue of the stigma related to incontinence, her inspiration, a family member who suddenly decided they didn't feel comfortable going on long walks with her."
-datePublished: '2016-02-13T13:58:15.761Z'
-dateModified: '2016-02-13T13:58:06.503Z'
+datePublished: '2016-02-13T14:01:17.574Z'
+dateModified: '2016-02-13T14:01:15.223Z'
 author:
   - name: Robert Andriessen
     url: 'http://vimeo.com/ydn'
