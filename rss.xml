@@ -4,11 +4,18 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>http://designguide.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 14:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 14:02:14 GMT</lastBuildDate>
         <atom:link href="http://designguide.tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Border Crosser by Chico MacMurtrie/Amorphic Robot Works]]></title>
+            <description><![CDATA[<article><h1>Border Crosser by Chico MacMurtrie/Amorphic Robot Works</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96833ba24be89593658d9f3717e1d28fd8ac6daf.jpg"></article>]]></description>
+            <link>http://designguide.tv/border-crosser-by-chico-macmurtrieamorphic-robot-works/index.html</link>
+            <guid isPermaLink="false">902bf7fc-b6f2-4e48-b762-a1cbe60b9eae</guid>
+            <pubDate>Sat, 13 Feb 2016 14:00:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Terraforming]]></title>
-            <description><![CDATA[<article><h1>Terraforming</h1><p>Terraforming is a project commissioned for Designer of the Future 2015 by Swarovski at Design Miami/ Basel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92c20631d52804c6ca7b7a160af8b151fe874704.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Terraforming</h1><p>Terraforming is a project commissioned for Designer of the Future 2015 by Swarovski at Design Miami/ Basel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2aaa75a25ec9e366eb329beaf7103392e2d7ce01.jpg"></article>]]></description>
             <link>http://designguide.tv/terraforming/index.html</link>
             <guid isPermaLink="false">71c5d617-bf32-4640-a672-22864784df98</guid>
             <pubDate>Sat, 13 Feb 2016 13:59:53 GMT</pubDate>
@@ -25,7 +32,7 @@
             <description><![CDATA[<article><h1>Protective Underwear - Julia van Zanten</h1><p>“Practical solutions exist in the form of adult diapers, but these do nothing to address the emotional side of this common problem” Julia created a washable textile underwear accompanied by washing elements and a campaign to bring awareness to the subject. The aim: to restore some dignity and a sense of security when leaving the home. Take a look and decide for yourself, is this something you'd rather wear then an adult diaper? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62ed5fa32a1abee63cae503e59f260f1d39f62cb.jpg"></article>]]></description>
             <link>http://designguide.tv/protective-underwear-julia-van-zanten/index.html</link>
             <guid isPermaLink="false">795be44e-012a-497a-8f3a-3df92e018f97</guid>
-            <pubDate>Sat, 13 Feb 2016 13:58:15 GMT</pubDate>
+            <pubDate>Sat, 13 Feb 2016 14:01:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Up The Wall: A Shelving System You Can Design - Design Milk]]></title>
@@ -68,13 +75,6 @@
             <link>http://designguide.tv/confrontations-with-wieki-somers-and-chocolatier-rafael-mutt/index.html</link>
             <guid isPermaLink="false">ec99e5e3-1c1e-4315-a256-0a887172c1de</guid>
             <pubDate>Thu, 11 Feb 2016 12:23:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The High Line - Designguide.tv]]></title>
-            <description><![CDATA[<article><h1>The High Line - Designguide.tv</h1><p>The High Line design is a collaboration between James Corner Field Operations (Project Lead), Diller Scofidio + Renfro, and planting designer Piet Oudolf.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/488ceaae49a73cf3d59626ba162a6b60dd1b1ef2.jpg"></article>]]></description>
-            <link>http://designguide.tv/the-high-line-designguidetv/index.html</link>
-            <guid isPermaLink="false">d71b57ad-7ba8-4413-8294-940178998ef4</guid>
-            <pubDate>Thu, 11 Feb 2016 12:22:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
