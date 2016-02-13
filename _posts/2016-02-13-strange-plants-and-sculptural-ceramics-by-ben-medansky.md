@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.sightunseen.com/2016/02/sculptural-ceramic-planters-ben-medansky-at-persephone/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - norton
   - ceramic
 description: "It's no secret that ceramics and plants are two of the biggest styling trends driving the interiors world right now, but our favorite thing is what happens when the two collide: The planting of jaw-dropping specimens in purpose-built pots has become something of a trend itself lately, from Adam Silverman and Kohei Oda's eccentric potted cacti to David Haskell's psychotic plants to Bari Ziperstein's recent ikebana collaboration with Junzo Mori."
-datePublished: '2016-02-13T15:50:08.026Z'
-dateModified: '2016-02-13T15:49:59.642Z'
+datePublished: '2016-02-13T15:55:08.015Z'
+dateModified: '2016-02-13T15:55:03.754Z'
 author:
   - name: Jill Singer
     url: 'http://www.sightunseen.com/author/jill/'
@@ -26,14 +25,15 @@ author:
 related: []
 app_links: []
 title: Strange Plants and Sculptural Ceramics by Ben Medansky
+sourcePath: _posts/2016-02-13-strange-plants-and-sculptural-ceramics-by-ben-medansky.md
+published: true
 authors: []
 publisher:
   name: Sight Unseen
   domain: www.sightunseen.com
   url: 'http://www.sightunseen.com'
   favicon: null
-sourcePath: _posts/2016-02-13-strange-plants-and-sculptural-ceramics-by-ben-medansky.md
-published: true
+url: strange-plants-and-sculptural-ceramics-by-ben-medansky/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
