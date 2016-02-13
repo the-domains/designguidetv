@@ -16,8 +16,8 @@ keywords:
   - norton
   - ceramic
 description: "It's no secret that ceramics and plants are two of the biggest styling trends driving the interiors world right now, but our favorite thing is what happens when the two collide: The planting of jaw-dropping specimens in purpose-built pots has become something of a trend itself lately, from Adam Silverman and Kohei Oda's eccentric potted cacti to David Haskell's psychotic plants to Bari Ziperstein's recent ikebana collaboration with Junzo Mori."
-datePublished: '2016-02-13T15:55:08.015Z'
-dateModified: '2016-02-13T15:55:03.754Z'
+datePublished: '2016-02-13T15:58:36.539Z'
+dateModified: '2016-02-13T15:58:34.172Z'
 author:
   - name: Jill Singer
     url: 'http://www.sightunseen.com/author/jill/'
