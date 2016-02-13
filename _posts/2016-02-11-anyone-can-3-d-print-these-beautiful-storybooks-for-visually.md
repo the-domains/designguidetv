@@ -17,8 +17,8 @@ keywords:
   - braille
   - picture
 description: "Behavioral studies have long shown that known that reading stories to infants and children supports cognitive development (and you don't need science to recognize how much kids love hearing a story)."
-datePublished: '2016-02-12T09:15:18.213Z'
-dateModified: '2016-02-12T09:15:17.586Z'
+datePublished: '2016-02-13T13:58:32.915Z'
+dateModified: '2016-02-13T13:58:28.039Z'
 author: []
 related: []
 app_links: []
