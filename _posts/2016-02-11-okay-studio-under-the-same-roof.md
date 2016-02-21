@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Robert Andriessen
-    url: 'http://vimeo.com/ydn'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/2484025'
+inLanguage: en
+starred: false
 keywords:
   - alkalay
   - narud
@@ -21,7 +17,13 @@ keywords:
   - stillmotion
   - aram
 description: OKAY Studio is a collective of individual designers sharing a bit more then a workspace. This will be the first curated exhibition (presented at the London Design Festival 2008) of the group.
-inLanguage: en
+datePublished: '2016-02-21T16:04:18.210Z'
+dateModified: '2016-02-21T16:04:13.997Z'
+author:
+  - name: Robert Andriessen
+    url: 'http://vimeo.com/ydn'
+    avatar: {}
+related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/2484025'
     type: ios
@@ -32,15 +34,15 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/2484025'
-title: 'Okay Studio, under the same roof'
-datePublished: '2016-02-11T18:20:54.073Z'
-dateModified: '2016-02-11T18:19:10.594Z'
+title: 'YDN Classic / Okay Studio, under the same roof'
 sourcePath: _posts/2016-02-11-okay-studio-under-the-same-roof.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
