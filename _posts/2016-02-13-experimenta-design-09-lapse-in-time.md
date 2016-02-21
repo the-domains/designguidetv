@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Designguide.tv
-    url: 'https://www.youtube.com/user/mranderson02005'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=ca3UsFc15dU'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - designguide
@@ -21,7 +17,13 @@ keywords:
   - dise
   - proyecto
 description: 'YDN Design Guide travels to Lisbon, Portugal for the Experimenta Design Festival 2009. Our first visit there is the Lapse in Time Show curated by Hans Maier-Aichen. Lapse in time highlights several young designers who have chosen to explore something new, on the crossroads of design, thought, science, environmental concerns and cultural exchange.'
-inLanguage: en
+datePublished: '2016-02-21T16:02:00.798Z'
+dateModified: '2016-02-21T16:01:49.327Z'
+author:
+  - name: Designguide.tv
+    url: 'https://www.youtube.com/user/mranderson02005'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ca3UsFc15dU&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=ca3UsFc15dU&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ca3UsFc15dU'
 title: 'Experimenta Design 09: Lapse in Time'
-datePublished: '2016-02-13T16:33:32.087Z'
-dateModified: '2016-02-13T16:05:42.159Z'
 sourcePath: _posts/2016-02-13-experimenta-design-09-lapse-in-time.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
