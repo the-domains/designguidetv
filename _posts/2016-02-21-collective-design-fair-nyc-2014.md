@@ -17,8 +17,8 @@ keywords:
   - wrt
   - techcentury
 description: 'Steven Learner walks us through Collective 2, Design Fair in New York. Collective is a unique fair in that it focusses solely on collecting design, something strangely missing in the long list of New York City fairs. The combined exhibitions of the Design Academy Eindhoven and Hella Jongerius were welcome as they bring a broader perspective to the whole.'
-datePublished: '2016-02-21T12:09:27.776Z'
-dateModified: '2016-02-21T12:08:50.686Z'
+datePublished: '2016-02-21T12:08:42.889Z'
+dateModified: '2016-02-21T12:08:24.226Z'
 author:
   - name: Designguide.tv
     url: 'https://www.youtube.com/user/mranderson02005'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: 'collective design fair, NYC 2014'
-sourcePath: _posts/2016-02-21-collective-design-fair-nyc-2014.md
-published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+sourcePath: _posts/2016-02-21-collective-design-fair-nyc-2014.md
+published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
