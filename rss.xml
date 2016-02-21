@@ -4,11 +4,18 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>http://designguide.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 14:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 12:10:30 GMT</lastBuildDate>
         <atom:link href="http://designguide.tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[collective design fair, NYC 2014]]></title>
+            <description><![CDATA[<article><h1>collective design fair, NYC 2014</h1><p>Steven Learner walks us through Collective 2, Design Fair in New York. Collective is a unique fair in that it focusses solely on collecting design, something strangely missing in the long list of New York City fairs. The combined exhibitions of the Design Academy Eindhoven and Hella Jongerius were welcome as they bring a broader perspective to the whole.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=LO_9GpYXx-w</link>
+            <guid isPermaLink="false">a27b7913-333a-43fc-b07a-1583e3426f81</guid>
+            <pubDate>Sun, 21 Feb 2016 12:09:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Social Label with Dick van Hoff]]></title>
-            <description><![CDATA[<article><h1>Social Label with Dick van Hoff</h1><p>Social Label works with designers and workshops from various social organisations and enterprises to create meaningful products and new opportunities for people who have trouble connecting with the labour market.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Social Label with Dick van Hoff</h1><p>Social Label works with designers and workshops from various social organisations and enterprises to create meaningful products and new opportunities for people who have trouble connecting with the labour market.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb558bbe72ed67a06ce48e5f2956f1e74bac133d.jpg"></article>]]></description>
             <link>https://vimeo.com/140583120</link>
             <guid isPermaLink="false">dc857529-83cf-40e7-85ef-22c66f7abe54</guid>
             <pubDate>Mon, 15 Feb 2016 14:16:05 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://designguide.tv/future-day-spa-by-lucy-mcrae/index.html</link>
             <guid isPermaLink="false">c5d35242-2821-489c-90cf-34baba69875d</guid>
             <pubDate>Sat, 13 Feb 2016 13:59:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protective Underwear - Julia van Zanten]]></title>
-            <description><![CDATA[<article><h1>Protective Underwear - Julia van Zanten</h1><p>“Practical solutions exist in the form of adult diapers, but these do nothing to address the emotional side of this common problem” Julia created a washable textile underwear accompanied by washing elements and a campaign to bring awareness to the subject. The aim: to restore some dignity and a sense of security when leaving the home. Take a look and decide for yourself, is this something you'd rather wear then an adult diaper? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62ed5fa32a1abee63cae503e59f260f1d39f62cb.jpg"></article>]]></description>
-            <link>http://designguide.tv/protective-underwear-julia-van-zanten/index.html</link>
-            <guid isPermaLink="false">795be44e-012a-497a-8f3a-3df92e018f97</guid>
-            <pubDate>Sat, 13 Feb 2016 14:01:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
