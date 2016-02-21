@@ -4,8 +4,15 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>http://designguide.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 16:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 16:05:12 GMT</lastBuildDate>
         <atom:link href="http://designguide.tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[YDN Classic / Barber & Osgerby in Milan]]></title>
+            <description><![CDATA[<article><h1>YDN Classic / Barber & Osgerby in Milan</h1><p>Designguide.tv speaks with Barber & Osgerby about their pieces for Meta and the concept behind the company. Meta is dedicated to combining exquisite materials with the world's finest artisans to create 21st century design at a quality once seen at the heights of the decorative arts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a9aa4762bef41ac79a9a9a38783a2a1a1768268.jpg"></article>]]></description>
+            <link>https://vimeo.com/1139228</link>
+            <guid isPermaLink="false">709bf91e-b792-46b7-8c2a-10c41b441cd0</guid>
+            <pubDate>Sun, 21 Feb 2016 16:03:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[YDN Classic / collective design fair, NYC 2014]]></title>
             <description><![CDATA[<article><h1>YDN Classic / collective design fair, NYC 2014</h1><p>Steven Learner walks us through Collective 2, Design Fair in New York. Collective is a unique fair in that it focusses solely on collecting design, something strangely missing in the long list of New York City fairs. The combined exhibitions of the Design Academy Eindhoven and Hella Jongerius were welcome as they bring a broader perspective to the whole.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4e85655cf81f444def3a53a70b4d9dde06597a9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://designguide.tv/terraforming/index.html</link>
             <guid isPermaLink="false">71c5d617-bf32-4640-a672-22864784df98</guid>
             <pubDate>Sat, 13 Feb 2016 14:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Future Day Spa by Lucy McRae]]></title>
-            <description><![CDATA[<article><h1>Future Day Spa by Lucy McRae</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ab04b33ecdb6260babebdf6d3cb9c2500b80fb5.jpg"></article>]]></description>
-            <link>http://designguide.tv/future-day-spa-by-lucy-mcrae/index.html</link>
-            <guid isPermaLink="false">c5d35242-2821-489c-90cf-34baba69875d</guid>
-            <pubDate>Sat, 13 Feb 2016 13:59:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
