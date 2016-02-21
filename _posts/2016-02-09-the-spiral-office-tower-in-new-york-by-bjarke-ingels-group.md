@@ -1,7 +1,7 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - bjarke
   - amenity
 description: "BIG's spiraling office tower in new york is wrapped with cascading terraces "
-datePublished: '2016-02-09T13:48:06.521Z'
-dateModified: '2016-02-09T13:47:57.008Z'
+datePublished: '2016-02-21T16:04:31.192Z'
+dateModified: '2016-02-21T16:04:30.632Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>the spiral office tower in new york by bjarke ingels group</h1><p>BIG's spiraling office tower in new york is wrapped with cascading terraces </p><img src="http://www.designboom.com/wp-content/uploads/2016/02/bjarke-ingels-group-BIG-the-spiral-hudson-yards-new-york-designboom-03.jpg" /></article>
+<article style=""><h1>the spiral office tower in new york by bjarke ingels group</h1><p>BIG's spiraling office tower in new york is wrapped with cascading terraces </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e16403d87d67ebb0e5e695b11c56b42dec692403.jpg" /></article>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a199c787-98d9-4a48-99b8-efc9dea73c51.jpg)
 
@@ -45,4 +45,6 @@ these landscaped zones provide each floor with a double-height amenity space tha
 > 
 > <iframe src="https://player.vimeo.com/video/154618590?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" style=""></iframe>
 > 
->
+> 
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8ddfd9c-ba5d-4f7b-b43e-a2c76288e2b5.jpg)
