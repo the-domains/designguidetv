@@ -4,8 +4,15 @@
         <description><![CDATA[Designguide TV]]></description>
         <link>http://designguide.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 16:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 16:05:42 GMT</lastBuildDate>
         <atom:link href="http://designguide.tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[YDN Classic / Nosigner]]></title>
+            <description><![CDATA[<article><h1>YDN Classic / Nosigner</h1><p>Nosigner is somebody who designs invisible thing without any explicit signature. We met up with him at the London Design festival, and again at the Tokyo Design week for a quick talk about his work and the ideas behind it. www.nosigner.com should be up in HD now</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/160ee5ce0d2f095cdfdab50a8fde051e87389809.jpg"></article>]]></description>
+            <link>https://vimeo.com/2305584</link>
+            <guid isPermaLink="false">b09a0b65-e8ad-441c-8178-e689b46acd0e</guid>
+            <pubDate>Sun, 21 Feb 2016 16:04:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[YDN Classic / Okay Studio, under the same roof]]></title>
             <description><![CDATA[<article><h1>YDN Classic / Okay Studio, under the same roof</h1><p>OKAY Studio is a collective of individual designers sharing a bit more then a workspace. This will be the first curated exhibition (presented at the London Design Festival 2008) of the group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e46a930ed63c2347bcab76476f7bf2f7d8cdb5e3.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://designguide.tv/strange-plants-and-sculptural-ceramics-by-ben-medansky/index.html</link>
             <guid isPermaLink="false">bf43e948-feb3-4884-81a5-3d745882e7eb</guid>
             <pubDate>Sat, 13 Feb 2016 15:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Border Crosser by Chico MacMurtrie/Amorphic Robot Works]]></title>
-            <description><![CDATA[<article><h1>Border Crosser by Chico MacMurtrie/Amorphic Robot Works</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96833ba24be89593658d9f3717e1d28fd8ac6daf.jpg"></article>]]></description>
-            <link>http://designguide.tv/border-crosser-by-chico-macmurtrieamorphic-robot-works/index.html</link>
-            <guid isPermaLink="false">902bf7fc-b6f2-4e48-b762-a1cbe60b9eae</guid>
-            <pubDate>Sat, 13 Feb 2016 14:00:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
