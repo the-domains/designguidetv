@@ -1,7 +1,7 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,20 +16,20 @@ keywords:
   - bjarke
   - amenity
 description: "BIG's spiraling office tower in new york is wrapped with cascading terraces "
-datePublished: '2016-02-21T16:04:31.192Z'
-dateModified: '2016-02-21T16:04:30.632Z'
+datePublished: '2016-02-21T16:08:18.626Z'
+dateModified: '2016-02-21T16:08:14.491Z'
 author: []
 related: []
 app_links: []
 title: the spiral office tower in new york by bjarke ingels group
+sourcePath: _posts/2016-02-09-the-spiral-office-tower-in-new-york-by-bjarke-ingels-group.md
+published: true
 authors: []
 publisher:
   name: 'designboom | architecture & design magazine'
   domain: www.designboom.com
   url: 'http://www.designboom.com'
   favicon: 'http://www.designboom.com/favicon.ico'
-sourcePath: _posts/2016-02-09-the-spiral-office-tower-in-new-york-by-bjarke-ingels-group.md
-published: true
 url: the-spiral-office-tower-in-new-york-by-bjarke-ingels-group/index.html
 _context: 'http://schema.org'
 _type: MediaObject
