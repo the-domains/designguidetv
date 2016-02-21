@@ -17,8 +17,8 @@ keywords:
   - dise
   - proyecto
 description: 'YDN Design Guide travels to Lisbon, Portugal for the Experimenta Design Festival 2009. Our first visit there is the Lapse in Time Show curated by Hans Maier-Aichen. Lapse in time highlights several young designers who have chosen to explore something new, on the crossroads of design, thought, science, environmental concerns and cultural exchange.'
-datePublished: '2016-02-21T16:02:00.798Z'
-dateModified: '2016-02-21T16:01:49.327Z'
+datePublished: '2016-02-21T16:02:43.783Z'
+dateModified: '2016-02-21T16:02:20.936Z'
 author:
   - name: Designguide.tv
     url: 'https://www.youtube.com/user/mranderson02005'
@@ -35,7 +35,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=ca3UsFc15dU&feature=applinks'
     type: web
-title: 'Experimenta Design 09: Lapse in Time'
+title: 'YDN Classic / Experimenta Design 09: Lapse in Time'
 sourcePath: _posts/2016-02-13-experimenta-design-09-lapse-in-time.md
 published: true
 authors: []
