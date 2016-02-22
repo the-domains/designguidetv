@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.designboom.com/architecture/bjarke-ingels-group-big-the-spiral-hudson-yards-new-york-02-08-2016/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - bjarke
   - amenity
 description: "BIG's spiraling office tower in new york is wrapped with cascading terraces "
-datePublished: '2016-02-21T16:08:18.626Z'
-dateModified: '2016-02-21T16:08:14.491Z'
+datePublished: '2016-02-22T23:25:07.432Z'
+dateModified: '2016-02-22T23:24:59.028Z'
 author: []
 related: []
 app_links: []
@@ -30,7 +31,6 @@ publisher:
   domain: www.designboom.com
   url: 'http://www.designboom.com'
   favicon: 'http://www.designboom.com/favicon.ico'
-url: the-spiral-office-tower-in-new-york-by-bjarke-ingels-group/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
