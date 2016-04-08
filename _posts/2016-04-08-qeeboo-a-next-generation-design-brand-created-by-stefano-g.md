@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.designboom.com'
-  name: 'designboom | architecture & design magazine'
-  favicon: 'http://www.designboom.com/favicon.ico'
-  domain: www.designboom.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - qeeboo
   - giovannoni
@@ -18,17 +16,21 @@ keywords:
   - objects
   - branzi
 description: "qeeboo - a next generation design brand created by stefano giovannoni qeeboo - a next generation design brand created by stefano giovannoni over the last year, designboom has accompanied stefano giovannoni and the group of designers in the product planning and marketing strategy for the debut of 'qeeboo' - a next generation design brand that aims at producing affordable, injection moulded plastic furniture and objects."
-inLanguage: en
+datePublished: '2016-04-08T15:50:33.110Z'
+dateModified: '2016-04-08T15:50:25.079Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.designboom.com/design/qeeboo-stefano-giovannoni-online-design-brand-04-06-2016/'
 title: qeeboo - a next generation design brand created by stefano giovannoni
-datePublished: '2016-04-08T15:45:37.551Z'
-dateModified: '2016-04-08T05:19:46.598Z'
 sourcePath: _posts/2016-04-08-qeeboo-a-next-generation-design-brand-created-by-stefano-g.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: 'designboom | architecture & design magazine'
+  domain: www.designboom.com
+  url: 'http://www.designboom.com'
+  favicon: 'http://www.designboom.com/favicon.ico'
+url: qeeboo-a-next-generation-design-brand-created-by-stefano-g/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
