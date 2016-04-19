@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Everything within a home can be replaced, the furniture, the color of the walls, but the view as we know is always fixed and static. Anotherview created a portable window for the nomadic house owner that feels the need to discover different places from their home. '
-datePublished: '2016-04-19T21:06:03.701Z'
-dateModified: '2016-04-19T21:06:02.425Z'
+datePublished: '2016-04-19T21:44:03.267Z'
+dateModified: '2016-04-19T21:44:02.524Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-anotherview-presented-a-window-installation-that-can-be-inte.md
